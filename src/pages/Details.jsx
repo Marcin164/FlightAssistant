@@ -1,12 +1,74 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import Primary from '../components/Buttons/Primary'
 import Text from '../components/Inputs/Text'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowsLeftRight, faArrowsUpDown } from '@fortawesome/free-solid-svg-icons'
 import { faClock } from '@fortawesome/free-regular-svg-icons'
+import OpenAI from "openai";
+import { useParams } from 'react-router'
+
+const client = new OpenAI({
+  apiKey: '', // Vite
+  dangerouslyAllowBrowser: true, // ⚠️ wymagane w przeglądarce
+});
+
+const SYSTEM_PROMPT = `
+Jesteś systemem informacji lotniskowej.
+
+Użytkownik podaje numer lotu (np. "LO123", "FR4567").
+Twoim zadaniem jest zwrócić szczegółowe informacje o locie.
+
+ZASADY:
+- Jeśli numer lotu wygląda poprawnie, ZAWSZE zwróć dane
+- Dane mogą być symulowane, ale muszą być realistyczne
+- Odpowiadaj WYŁĄCZNIE w formacie JSON
+- Nie dodawaj żadnego tekstu poza JSON
+
+FORMAT JSON:
+{
+  "flightNumber": string,
+  "airline": string,
+  "from": string,
+  "to": string,
+  "departureTime": string,
+  "arrivalTime": string,
+  "gate": string,
+  "terminal": string,
+  "status": "On Time" | "Delayed" | "Boarding" | "Cancelled",
+  "delayMinutes": number | null
+}
+`;
 
 const Details = () => {
+  const params = useParams() 
+  const [flight, setFlight] = useState("FR 99");
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(false);
+
+  const findFlightDetails = async () => {
+    setLoading(true);
+    setData(null);
+
+    const response = await client.chat.completions.create({
+      model: "gpt-4o-mini",
+      messages: [
+        { role: "system", content: SYSTEM_PROMPT },
+        { role: "user", content: flight },
+      ],
+    });
+
+    try {
+      const json = JSON.parse(response.choices[0].message.content);
+
+      setData(json);
+    } catch (e) {
+      alert("Błąd parsowania odpowiedzi AI");
+    }
+
+    setLoading(false);
+  };
+
   return (
     <div>
         <div className='flex py-2 px-4'>
@@ -15,8 +77,8 @@ const Details = () => {
                 <div className="text-[#3F77D8] text-[30px] font-bold">FR 4897</div>
             </div>
             <div className='flex'>
-                <Text placeholder="Flight number"/>
-                <Primary text="Search" className="mt-4"/>
+                <Text placeholder="Flight number" onChange={(e) => setFlight(e.target.value)}/>
+                <Primary text="Search" className="mt-4" onClick={findFlightDetails}/>
             </div>
         </div>
         <div className='flex'>

@@ -3,6 +3,8 @@ import Text from '../components/Inputs/Text'
 import Primary from '../components/Buttons/Primary'
 
 const Home = () => {
+
+
   return (
     <div>
         <div className="p-2 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
