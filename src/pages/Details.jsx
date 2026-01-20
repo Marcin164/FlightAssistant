@@ -1,13 +1,4 @@
-import React, { useEffect, useState } from "react";
-import Primary from "../components/Buttons/Primary";
-import Text from "../components/Inputs/Text";
-import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faArrowsLeftRight,
-  faArrowsUpDown,
-} from "@fortawesome/free-solid-svg-icons";
-import { faClock } from "@fortawesome/free-regular-svg-icons";
+import React, { useState } from "react";
 import OpenAI from "openai";
 import { useParams } from "react-router";
 import DetailsTopbar from "../components/Topbars/DetailsTopbar";
