@@ -1,15 +1,24 @@
-import React, { useEffect, useState } from 'react'
-import Primary from '../components/Buttons/Primary'
-import Text from '../components/Inputs/Text'
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faArrowsLeftRight, faArrowsUpDown } from '@fortawesome/free-solid-svg-icons'
-import { faClock } from '@fortawesome/free-regular-svg-icons'
+import React, { useEffect, useState } from "react";
+import Primary from "../components/Buttons/Primary";
+import Text from "../components/Inputs/Text";
+import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faArrowsLeftRight,
+  faArrowsUpDown,
+} from "@fortawesome/free-solid-svg-icons";
+import { faClock } from "@fortawesome/free-regular-svg-icons";
 import OpenAI from "openai";
-import { useParams } from 'react-router'
+import { useParams } from "react-router";
+import DetailsTopbar from "../components/Topbars/DetailsTopbar";
+import TravelDetails from "../components/Cards/TravelDetails";
+import Map from "../components/Map/Map";
+import PlaneState from "../components/Cards/PlaneState";
+import Delays from "../components/Cards/Delays";
+import Gate from "../components/Cards/Gate";
 
 const client = new OpenAI({
-  apiKey: '', // Vite
+  apiKey: "", // Vite
   dangerouslyAllowBrowser: true, // ⚠️ wymagane w przeglądarce
 });
 
@@ -41,7 +50,7 @@ FORMAT JSON:
 `;
 
 const Details = () => {
-  const params = useParams() 
+  const params = useParams();
   const [flight, setFlight] = useState("FR 99");
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -71,43 +80,30 @@ const Details = () => {
 
   return (
     <div>
-        <div className='flex py-2 px-4'>
-            <div className='mr-4'>
-                <div className="text-[#646464] text-[14px] font-light">Flight number</div>
-                <div className="text-[#3F77D8] text-[30px] font-bold">FR 4897</div>
-            </div>
-            <div className='flex'>
-                <Text placeholder="Flight number" onChange={(e) => setFlight(e.target.value)}/>
-                <Primary text="Search" className="mt-4" onClick={findFlightDetails}/>
-            </div>
+      <DetailsTopbar
+        flight={flight}
+        setFlight={setFlight}
+        findFlightDetails={findFlightDetails}
+      />
+      <div className="flex">
+        <div className="w-[50%] h-[calc(100vh-50px)] p-4">
+          <Map />
         </div>
-        <div className='flex'>
-            <div className="w-[50%]">
-                <MapContainer center={[51.505, -0.09]} zoom={13} scrollWheelZoom={false}>
-  <TileLayer
-    attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-  />
-  <Marker position={[51.505, -0.09]}>
-    <Popup>
-      A pretty CSS3 popup. <br /> Easily customizable.
-    </Popup>
-  </Marker>
-</MapContainer>
+        <div className="w-[50%] p-4">
+          <div className="grid grid-cols-2 gap-4">
+            <div className="flex flex-col gap-4">
+              <TravelDetails />
+              <Delays />
             </div>
-            <div className="w-[50%]">
-                <div className="shadow-xl bg-[#FAFAFA] p-4">
-                    <div className="text-[26px] font-bold">Travel details</div>
-                    <div className="flex flex-col gap-2 mt-2">
-                        <span><FontAwesomeIcon icon={faArrowsUpDown}/><span className="ml-2">30000 ft.</span></span>
-                        <span><FontAwesomeIcon icon={faArrowsLeftRight}/><span className="ml-2">114 km</span></span>
-                        <span><FontAwesomeIcon icon={faClock}/><span className="ml-2">0:45</span></span>
-                    </div>
-                </div>
+            <div className="flex flex-col gap-4">
+              <PlaneState />
+              <Gate />
             </div>
+          </div>
         </div>
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default Details
+export default Details;
