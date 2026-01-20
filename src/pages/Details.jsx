@@ -34,6 +34,7 @@ ZASADY:
 - Odpowiadaj WYŁĄCZNIE w formacie JSON
 - Nie dodawaj żadnego tekstu poza JSON
 
+TODO CHANGE HERE RESPONSE AND ENABLE MODEL TO CALL API
 FORMAT JSON:
 {
   "flightNumber": string,
@@ -48,6 +49,35 @@ FORMAT JSON:
   "delayMinutes": number | null
 }
 `;
+
+const flightRadarApiDesc = [
+  {
+    type: "function",
+    name: "get_flight_detials_from_flight_radar",
+    description:
+      "Pobiera dane z serwisu flightradar24. Pozwla pobrac informacje o aktualnych lotach " +
+      "TODO HERE OTHER METHODS CALLS " +
+      "Args: table_type (str): " +
+      "Typ tabeli (np. 'A', 'B'). " +
+      "date (str): Data w formacie 'YYYY-MM-DD'." +
+      " Returns: dict or None: Słownik z danymi o kursach walut lub None w przypadku błędu.",
+    strict: false,
+    parameters: {
+      type: "object",
+      properties: {
+        table_type: {
+          type: "string",
+          description: "Typ tabeli (np. 'A', 'B').",
+        },
+        date: {
+          type: "string",
+          description: "Data w formacie 'YYYY-MM-DD'.",
+        },
+      },
+      required: ["table_type", "date"],
+    },
+  },
+];
 
 const Details = () => {
   const params = useParams();
@@ -65,12 +95,18 @@ const Details = () => {
         { role: "system", content: SYSTEM_PROMPT },
         { role: "user", content: flight },
       ],
+      tools: flightRadarApiDesc,
     });
 
     try {
+      //TODO add call to FlightRADARaPI
+      console.log(response);
       const json = JSON.parse(response.choices[0].message.content);
 
+      console.log(json);
       setData(json);
+      console.log(data);
+      //TODO ADD A WAY TO DISPLAY DATA TO USER
     } catch (e) {
       alert("Błąd parsowania odpowiedzi AI");
     }
