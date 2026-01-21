@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import OpenAI from "openai";
 import { useParams } from "react-router";
 import DetailsTopbar from "../components/Topbars/DetailsTopbar";
 import TravelDetails from "../components/Cards/TravelDetails";
@@ -75,31 +74,35 @@ const Details = () => {
   const [flight, setFlight] = useState("FR 99");
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
 
   const findFlightDetails = async () => {
     setLoading(true);
     setData(null);
-
-    const response = await client.chat.completions.create({
-      model: "gpt-4o-mini",
-      messages: [
-        { role: "system", content: SYSTEM_PROMPT },
-        { role: "user", content: flight },
-      ],
-      tools: flightRadarApiDesc,
-    });
+    setError(null);
 
     try {
-      //TODO add call to FlightRADARaPI
-      console.log(response);
-      const json = JSON.parse(response.choices[0].message.content);
+      const response = await fetch(`${API_BASE_URL}/flight-details`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          flight_number: flight,
+        }),
+      });
 
-      console.log(json);
-      setData(json);
-      console.log(data);
-      //TODO ADD A WAY TO DISPLAY DATA TO USER
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.detail || `HTTP error! status: ${response.status}`);
+      }
+
+      const flightData = await response.json();
+      console.log("Flight data received:", flightData);
+      setData(flightData);
     } catch (e) {
-      alert("Błąd parsowania odpowiedzi AI");
+      console.error("Error fetching flight details:", e);
+      setError(e.message || "Błąd podczas pobierania detali lotu");
     }
 
     setLoading(false);
@@ -117,16 +120,25 @@ const Details = () => {
           <Map />
         </div>
         <div className="w-[50%] p-4">
-          <div className="grid grid-cols-2 gap-4">
-            <div className="flex flex-col gap-4">
-              <TravelDetails />
-              <Delays />
+          {loading && <div className="text-center py-4">Ładowanie...</div>}
+          {error && <div className="text-red-500 py-4">Błąd: {error}</div>}
+          {data && (
+            <div className="grid grid-cols-2 gap-4">
+              <div className="flex flex-col gap-4">
+                <TravelDetails data={data} />
+                <Delays data={data} />
+              </div>
+              <div className="flex flex-col gap-4">
+                <PlaneState data={data} />
+                <Gate data={data} />
+              </div>
             </div>
-            <div className="flex flex-col gap-4">
-              <PlaneState />
-              <Gate />
+          )}
+          {!loading && !error && !data && (
+            <div className="text-center py-4 text-gray-500">
+              Wyszukaj lot aby zobaczyć szczegóły
             </div>
-          </div>
+          )}
         </div>
       </div>
     </div>
