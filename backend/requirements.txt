@@ -1,0 +1,7 @@
+# Required dependencies for backend
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+python-dotenv
+
