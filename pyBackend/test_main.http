@@ -1,0 +1,27 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/hello/User
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/health
+Accept: application/json
+
+###
+
+# Example chat proxy request (replace OPENAI_API_KEY in env before running server)
+POST http://127.0.0.1:8000/api/openai/chat
+Content-Type: application/json
+
+{
+  "model": "gpt-3.5-turbo",
+  "messages": [
+    {"role": "user", "content": "Say hello in Polish."}
+  ]
+}
