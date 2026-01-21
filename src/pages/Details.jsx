@@ -7,39 +7,12 @@ import Map from "../components/Map/Map";
 import PlaneState from "../components/Cards/PlaneState";
 import Delays from "../components/Cards/Delays";
 import Gate from "../components/Cards/Gate";
+import { SYSTEM_PROMPT } from "../constants/prompts";
 
 const client = new OpenAI({
   apiKey: "", // Vite
   dangerouslyAllowBrowser: true, // ⚠️ wymagane w przeglądarce
 });
-
-const SYSTEM_PROMPT = `
-Jesteś systemem informacji lotniskowej.
-
-Użytkownik podaje numer lotu (np. "LO123", "FR4567").
-Twoim zadaniem jest zwrócić szczegółowe informacje o locie.
-
-ZASADY:
-- Jeśli numer lotu wygląda poprawnie, ZAWSZE zwróć dane
-- Dane mogą być symulowane, ale muszą być realistyczne
-- Odpowiadaj WYŁĄCZNIE w formacie JSON
-- Nie dodawaj żadnego tekstu poza JSON
-
-TODO CHANGE HERE RESPONSE AND ENABLE MODEL TO CALL API
-FORMAT JSON:
-{
-  "flightNumber": string,
-  "airline": string,
-  "from": string,
-  "to": string,
-  "departureTime": string,
-  "arrivalTime": string,
-  "gate": string,
-  "terminal": string,
-  "status": "On Time" | "Delayed" | "Boarding" | "Cancelled",
-  "delayMinutes": number | null
-}
-`;
 
 const flightRadarApiDesc = [
   {
