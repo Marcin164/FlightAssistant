@@ -25,3 +25,12 @@ Content-Type: application/json
     {"role": "user", "content": "Say hello in Polish."}
   ]
 }
+
+###
+
+POST http://localhost:8000/api/openai/flight-details
+Content-Type: application/json
+
+{
+  "flight_number": "FR99"
+}

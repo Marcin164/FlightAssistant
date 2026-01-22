@@ -12,9 +12,8 @@ const DetailsTopbar = ({ flight, setFlight, findFlightDetails }) => {
         <Text
           placeholder="Flight number"
           onChange={(e) => setFlight(e.target.value)}
-          className="w-[200px] mr-2"
+          className="w-[200px]"
         />
-        <Primary text="Search" className="mt-4" onClick={findFlightDetails} />
       </div>
       <div className="mx-4 text-[24px] text-[#646464] font-bold">OR</div>
       <div className=" flex justify-around">
@@ -38,7 +37,7 @@ const DetailsTopbar = ({ flight, setFlight, findFlightDetails }) => {
           onChange={(e) => setFlight(e.target.value)}
           className="w-[200px] mr-2"
         />
-        <Primary text="Search" className="mt-4" onClick={findFlightDetails} />
+        {/* <Primary text="Search" className="mt-4" onClick={findFlightDetails} /> */}
       </div>
     </div>
   );
