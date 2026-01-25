@@ -28,6 +28,15 @@ Content-Type: application/json
 
 ###
 
+POST http://localhost:8000/api/openai/flight-details
+Content-Type: application/json
+
+{
+  "flight_number": "FR99"
+}
+
+###
+
 # Example chat proxy request using vectorizer
 POST http://127.0.0.1:8000/api/openai/chat
 Content-Type: application/json
