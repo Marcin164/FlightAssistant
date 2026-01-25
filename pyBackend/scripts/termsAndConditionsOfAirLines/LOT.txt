@@ -1,0 +1,563 @@
+ARTYKUŁ 1: DEFINICJE
+
+AGENT - oznacza agenta sprzedaży biletów pasażerskich upoważnionego przez
+
+przewoźnika do reprezentowania go w sprzedaży pasażerskich biletów lotniczych oraz innych usług na trasy obsługiwane przez tego przewoźnika, a jeśli został do tego upoważniony, także na trasy innych przewoźników lotniczych.
+
+BAGAŻ - jeżeli inaczej nie zaznaczono, obejmuje bagaż rejestrowany i nierejestrowany.
+
+BAGAŻ NIEREJESTROWANY - jest przewożony pod opieką pasażera w kabinie pasażerskiej.
+
+BAGAŻ REJESTROWANY - bagaż znajdujący się pod opieką przewoźnika, na przewóz którego przewoźnik wystawił kwit bagażowy.
+
+BILET - oznacza ważny dokument potwierdzający zawarcie umowy przewozu lub bilet elektroniczny, uzupełniony o Kwit bagażowy lub Przywieszkę bagażową, wystawiony przez lub w imieniu przewoźnika; zawarte w nim warunki umowy, informacje dotyczące podróży lotniczej oraz odcinki lotu i odcinek dla pasażera, inkorporujący niniejsze Ogólne Warunki Przewozu.
+
+KWIT BAGAŻOWY - to te dane umieszczone w bilecie, które dotyczą przewozu rejestrowanego bagażu pasażera.
+
+BILET ELEKTRONICZNY - oznacza wystawione na podstawie bazy danych przewoźnika potwierdzenie opłaconej podróży (trasy) dla pasażera, wraz z elektronicznymi odcinkami lotu oraz jeżeli ma to zastosowanie – z kartą wstępu na pokład samolotu, którego dowodem jest „Electronic Ticket Passenger Itinerary Receipt”
+
+BILET ŁĄCZNY - bilet wystawiony pasażerowi w połączeniu z innym biletem lub biletami, z którymi razem stanowi jedną umowę o przewóz.
+
+FRANK POINCARE – oznacza umowną jednostkę walutową stosowaną w Konwencji Warszawskiej
+
+KONWENCJA - oznacza konwencję o ujednostajnieniu niektórych prawideł dotyczących międzynarodowego przewozu lotniczego: podpisaną w Montrealu 28 maja 1999 r. (Konwencja Montrealska), podpisaną w Warszawie 12 października 1929 roku (Konwencja Warszawska), w postaci pierwotnej (oryginalnej) lub ze zmianami wprowadzonymi Protokołem Haskim z 1955r. i/lub uzupełnieniami wprowadzonymi Konwencją Guadalajarską z 1961 r., w zależności od tego, która z tych dwóch konwencji ma zastosowanie, a w przypadku Konwencji Warszawskiej także od tego, czy również jej zmiany i/lub uzupełnienia będą miały zastosowanie do danego przewozu ze względu na jego trasę określoną w bilecie lub łącznie wystawionych biletach.
+
+ODCINEK ELEKTRONICZNY - oznacza elektroniczny odcinek lotu lub inny odpowiedni zapis w bazie danych przewoźnika.
+
+ODCINEK LOTU - to część biletu oznaczona napisem "Upoważnia do przelotu" albo odcinek elektroniczny w przypadku biletu elektronicznego, w którym są podane punkty, między którymi pasażer jest uprawniony do przewozu.
+
+OGÓLNE WARUNKI PRZEWOZU - oznaczają niniejsze Ogólne Warunki Przewozu stosowane przez Przewoźnika.
+
+OSTATECZNY TERMIN ODPRAWY – oznacza limit czasu określony przez przewoźnika, w którym należy dokonać formalności związanych z odprawą biletowo-bagażową i otrzymać kartę wstępu na pokład samolotu. Godziny zamknięcia odprawy podane zostały na stronie www.lot.com.
+
+Terminy zamknięcia odprawy różnią się na poszczególnych lotniskach. Zalecamy zapoznanie się z terminami zamknięcia odprawy i stosowanie się do nich. W przypadku niezastosowania się do podanych godzin zamknięcia odprawy będziemy mieli prawo do anulowania Twojej rezerwacji. Informację o godzinie zamknięcia odprawy na pierwszy obsługiwany przez nas segment podróży można uzyskać od nas lub w biurze podróży, które wystawiło bilet lotniczy.
+
+OZNACZENIE PRZEWOŹNIKA DESYGNATOR PRZEWOŹNIKA – oznacza znaki lub litery, które wskazują określonego przewoźnika lotniczego.
+
+PASAŻER – oznacza każdą osobę z wyjątkiem członków załogi, która za zgodą przewoźnika jest lub ma zostać przewieziona statkiem powietrznym na podstawie biletu lotniczego.
+
+PASAŻER Z NIEPEŁOSPRAWNOŚCIAMI – oznacza jakąkolwiek osobę, której zdolności ruchowe są ograniczone przy korzystaniu z transportu z uwagi na niepełnosprawność fizyczną (czuciową lub motoryczną, stałą lub tymczasową), upośledzenie umysłowe, wiek lub inną przyczynę, a której stan wymaga szczególnej uwagi i dostosowania usług udostępnianych wszystkim pasażerom do potrzeb tej osoby.
+
+POTWIERDZENIE PODRÓŻY (ITINERARY RECEIPT) - oznacza dokument lub dokumenty stanowiące część biletu elektronicznego, zawierające nazwisko pasażera, oraz informacje dotyczące lotu i inne, wymagane przez właściwe przepisy prawa.
+
+PRZEPISY PRZEWOŹNIKA - oznaczają regulacje inne niż niniejsze Ogólne Warunki Przewozu, dostępne na stronie internetowej przewoźnika www.lot.com bądź inne udostępnione przed zawarciem umowy przewozu, obowiązujące w czasie podróży pasażera i regulujące przewóz pasażera i/lub bagażu, a także taryfy przewoźnika.
+
+PRZERWA W PODRÓŻY - oznacza zamierzone przerwanie podróży w punkcie/ach położonym/ych między miejscem rozpoczęcia i docelowym miejscem zakończenia podróży, uzgodnione przez pasażera z przewoźnikiem przed rozpoczęciem podróży.
+
+PRZEWOŹNIK - oznacza przewoźnika lotniczego Polskie Linie Lotnicze LOT S.A. z siedzibą przy ul. Komitetu Obrony Robotników 43, 02-146 Warszawa (dalej również zwane PLL LOT SA) lub w określonych przypadkach także innego przewoźnika lotniczego oznaczonego w bilecie lub też wykonującego przewóz na jego zlecenie.
+
+PRZEWOŹNIK UMOWNY – oznacza przewoźnika, z którym pasażer zawarł umowę przewozu lotniczego i którego desygnator znajduje się na Bilecie.
+
+PRZYWIESZKA BAGAŻOWA - oznacza kwit wydany przez przewoźnika lub w imieniu przewoźnika wyłącznie w celu identyfikacji bagażu rejestrowanego, którego zawieszka jest przymocowana do bagażu rejestrowanego, a część identyfikująca bagaż zostaje wręczona pasażerowi.
+
+ROZPORZĄDZENIE - Rozporządzenie (WE) nr 889/2002 Parlamentu Europejskiego i Rady z dnia 13 maja 2002 roku zmieniającego Rozporządzenie Rady (WE) nr 2027/97 z dnia 9 października 1997 roku w sprawie odpowiedzialności przewoźnika lotniczego z tytułu wypadków lotniczych.
+
+SDR - SPECJALNE PRAWA CIĄGNIENIA (Special Drawing Rights) - oznaczają umowną jednostkę walutową określoną przez Międzynarodowy Fundusz Walutowy.
+
+SPECJALNA DEKLARACJA WARTOŚCI – oznacza deklarację złożoną przez pasażera za dopłatą podczas przekazania bagażu do odprawy, która wskazuje na wartość bagażu wyższą od limitów odpowiedzialności ustanowionych na podstawie Konwencji.
+
+TARYFA – oznacza taryfy, podatki i inne opłaty pobierane od pasażera wraz z postanowieniami o zakresie obowiązywania zgłoszone odpowiednim władzom, jeśli jest to wymagane.
+
+TERMIN OZNACZONY W DNIACH - oznacza dni kalendarzowe, wliczając wszystkie 7 dni tygodnia z zastrzeżeniem, że przy ustalaniu terminu zawiadomienia dzień wysłania zawiadomienia nie jest liczony. Przy ustalaniu okresu ważności biletu, dzień wystawienia biletu lub rozpoczęcia podróży nie jest liczony.
+
+UZGODNIONE MIEJSCA ZATRZYMANIA – są to w rozumieniu Konwencji i niniejszych warunków przewozu miejsca, z wyjątkiem miejsca rozpoczęcia i docelowego miejsca zakończenia podróży, wymienione w bilecie lub w rozkładzie przewoźnika jako zaplanowane rozkładowo miejsca zatrzymania na trasie podróży pasażera.
+
+WARUNKI UMOWY – oznaczają te postanowienia i informacje zawarte w bilecie lub w potwierdzeniu podróży lub dostarczone razem z nimi, które zostały w ten sposób nazwane i które włączają niniejsze Ogólne Warunki Przewozu do umowy przewozu przez powołanie się na nie.
+
+ZWIERZĘ - oznacza zwierzę znajdujące się w kabinie lub luku bagażowym, podróżujące z Pasażerem, który jest jego właścicielem lub osobą, która przyjęła odpowiedzialność za nie w imieniu właściciela podróży. 
+ARTYKUŁ 2: STOSOWANIE
+
+2.1. POSTANOWIENIA OGÓLNE.
+
+2.1.1. Niniejsze Ogólne Warunki Przewozu mają zastosowanie tylko do tych rejsów lub odcinków lotu, dla których wskazana jest nazwa przewoźnika PLL LOT S.A. lub jego desygnator LO w odpowiedniej rubryce biletu wydanego na odcinek lotu, z wyłączeniem przypadków przewidzianych w punktach 2.2-2.5 oraz w sytuacji opisanej w pkt. 2.6.
+
+2.1.2. Niniejsze Ogólne Warunki Przewozu są również stosowane w odpowiednim zakresie w przewozach bezpłatnych i zniżkowych, chyba że postanowiono inaczej w stosownych umowach, zleceniach na przelot lub biletach.
+
+2.2. NADRZĘDNOŚĆ PRAWA
+
+Ogólne Warunki Przewozu stosuje się w sposób nienaruszający tych postanowień Konwencji i innych przepisów prawa, które mają moc bezwzględnie obowiązującą. Jeżeli w związku z tym niektóre postanowienia Ogólnych Warunków Przewozu nie mogłyby być zastosowane, pozostałe ich postanowienia pozostawać będą w mocy.
+
+2.3. CZARTERY
+
+Jeżeli przewóz jest dokonany w oparciu o umowę czarterową, niniejsze Ogólne Warunki Przewozu są stosowane w odpowiednim zakresie, o ile umowa czarterowa i bilet czarterowy nie zawierają odmiennych postanowień.
+
+2.4. LOTY "CODE SHARE"
+
+Na niektóre trasy lub określone loty przewoźnik zawiera porozumienia z innymi przewoźnikami, zwane najczęściej porozumieniami Code share. W takim przypadku inny przewoźnik może faktycznie realizować przewóz. O tożsamości przewoźnika faktycznie dokonującego przewozu pasażer jest informowany w chwili dokonywania rezerwacji, a w przypadku, gdy nie jest ona znana w momencie dokonywania rezerwacji tak szybko, jak tylko zostanie ona ustalona. W takim przypadku i w odniesieniu do usługi przewozu zastosowanie będą miały ogólne warunki przewozu przewoźnika faktycznie realizującego przewóz. Ogólne warunki przewozu naszych partnerów code-share udostępnione będą w procesie rezerwacyjnym.
+
+2.5. KONIECZNOŚĆ ZMIANY PRZEWOŹNIKA
+
+W szczególnie uzasadnionych przypadkach, w których przewoźnik nie ma możliwości przewiezienia pasażera swoim rejsem podanym w rozkładzie, w celu uniknięcia lub ograniczenia opóźnienia w przewozie przewoźnik może zastąpić swój rejs rejsem innego przewoźnika lub dokonać zmiany rezerwacji na rejs innego przewoźnika. O tożsamości przewoźnika faktycznie dokonującego przewozu pasażer jest informowany najpóźniej podczas odprawy lub przy wejściu na pokład.
+
+2.6. ZMIANA TYPU SAMOLOTU
+
+Przewoźnik ma prawo dokonać zmiany typu samolotu w stosunku do podanego w rozkładzie.
+
+2.7. OGÓLNE WARUNKI PRZEWOZU A INNE PRZEPISY PRZEWOŹNIKA
+
+W zależności od taryfy zastosowanej przy zakupie biletu lub innej dodatkowej usługi zakupionej przez pasażera, zastosowanie będą miały postanowienia dodatkowe zamieszczone na stronie www.lot.com precyzujące warunki korzystania z biletu lub innej dodatkowej usługi zakupionej przez pasażera, a udostępnione przez zakupem biletu lub usługi. 
+
+ 
+ARTYKUŁ 3: BILET
+
+3.1. BILET
+
+Bilet stanowi dowód prima facie zawarcia umowy o przewóz między przewoźnikiem a pasażerem wymienionym w bilecie.
+
+3.1.1. WYMOGI DOTYCZĄCE BILETU
+
+Do przewozu nie będzie uprawniona osoba, która nie posiada ważnego biletu wystawionego przez przewoźnika i zawierającego odcinek lotu na dany rejs. Do skorzystania z biletu uprawniona jest wyłącznie osoba, dla której został on wystawiony a przewoźnik ma prawo żądać przedstawienia dokumentu potwierdzającego jej tożsamość i zgodność danych dokumentu z zapisami bazy danych przewoźnika.
+
+3.1.2. BRAK WAŻNEGO BILETU
+
+Z wyjątkiem biletu elektronicznego, w przypadku utraty lub uszkodzenia biletu albo jego części lub też nieokazania biletu zawierającego odcinek lotu na dany rejs oraz wszystkich niewykorzystanych odcinków lotu, przewoźnik - wystawca biletu, na prośbę pasażera, może zastąpić taki bilet lub jego część, wystawiając nowy bilet (duplikat). Wystawienie takiego biletu (duplikatu) możliwe będzie po otrzymaniu dowodu potwierdzającego, że pierwotny bilet (utracony, uszkodzony itp.) był ważny na dany rejs/trasę. W takim przypadku przewoźnik zastrzega sobie prawo pobrania odpowiedniej opłaty za ponowne wystawienie biletu (duplikatu) lub jego części. Jeżeli brak takiego dowodu, wydanie nowego biletu może nastąpić po opłaceniu pełnej należności taryfowej. Zwrot za bilet zagubiony może być dokonany zgodnie z Artykułem 11 pkt 4.
+
+3.1.3. NIEZBYWALNOŚĆ BILETU
+
+Bilet nie podlega odstąpieniu. Jeśli ktokolwiek inny niż osoba wskazana w bilecie podróżuje na podstawie takiego biletu lub otrzymuje zwrot za taki bilet, przewoźnik nie będzie odpowiedzialny w stosunku do osoby wskazanej w bilecie, jeżeli w dobrej wierze świadczy przewóz lub dokonuje takiego zwrotu. Niniejszy przepis nie ma zastosowania w sytuacji, gdy pasażer podróżuje w ramach imprezy turystycznej, do której stosuje się odpowiednie przepisy prawa.
+
+3.2. OKRES WAŻNOŚCI
+
+3.2.1 Bilet jest ważny do przewozu jeden rok od daty rozpoczęcia podróży lub, jeśli żaden odcinek biletu nie został wykorzystany, jeden rok od daty jego wystawienia z wyjątkiem przypadków, gdy zastrzeżono inaczej w bilecie lub Ogólnych Warunkach Przewozu.
+
+3.2.2. Jeżeli pasażer nie może odbyć podróży w okresie ważności biletu, gdyż w czasie, gdy prosi o rezerwację, przewoźnik nie jest w stanie jej potwierdzić, ważność biletu takiego pasażera będzie przedłużona zgodnie z obowiązującą taryfą albo na żądanie pasażera zostanie dokonany zwrot zgodnie z postanowieniami Artykułu 11.
+
+3.2.3. Ważność biletów pasażerów towarzyszących osobie, która zmarła w czasie podróży może zostać zmieniona przez przewoźnika poprzez wydłużenie okresu ważności lub uchylenie wymaganego minimum pobytu. W przypadku śmierci członków najbliższej rodziny pasażera, który rozpoczął podróż, okres ważności biletów pasażera oraz towarzyszących mu najbliższych członków rodziny może zostać zmieniony. Każda taka zmiana będzie dokonana w oparciu o właściwe zaświadczenie potwierdzające zgon, przy czym okres ważności może zostać przedłużony o nie więcej niż 45 dni licząc od daty śmierci.
+
+3.3. KOLEJNOŚĆ ODCINKÓW BILETU
+
+Taryfy przewoźnika wymagają, aby pasażer realizował odcinki podróży w kolejności, w jakiej są one odzwierciedlone w bilecie. Jeżeli pasażer zamierza zrealizować podróż z pominięciem kolejności odcinków podróży powinien dokonać zmian biletu zgodnie z faktycznym zamiarem podróży. W takim przypadku opłata zostanie naliczona w następujący sposób:
+
+a) w wysokości za faktycznie przebytą trasę obowiązującą w dniu zgłoszenia korekty trasy, w przypadku, gdy podróż nie została rozpoczęta.
+
+b) w wysokości za faktycznie przebytą trasę obowiązującą w dniu dokonania oryginalnej rezerwacji, w przypadku, gdy podróż została rozpoczęta.
+
+Jeśli wyliczona w ten sposób taryfa jest wyższa niż cena obliczona dla trasy podanej w bilecie, dalszy przewóz może zostać uzależniony od uiszczenia powstałej różnicy w cenie. W przypadku, gdy pasażer nie poinformował przewoźnika o chęci zmiany trasy podróży i poprzedzający odcinek trasy nie został przebyty lub też został przebyty nie w takiej kolejności, jaka została przewidziana w sekwencji poszczególnych rejsów podanych w bilecie zastosowanie ma Artykuł 6 pkt 5 niniejszych Ogólnych Warunków Przewozu.
+
+Należy wskazać, że opisane powyżej zasady mogą nie mieć zastosowania ze względu na przepisy lokalne.
+
+3.4. NAZWA I ADRES PRZEWOŹNIKA
+
+Nazwa przewoźnika może zostać skrócona w bilecie przez podanie desygnatora przewoźnika lub w inny sposób. Adresem przewoźnika jest również port rozpoczęcia podróży podany w bilecie obok pierwszego skrótu nazwy przewoźnika, wpisanego w rubryce biletu "Przewoźnik", a w przypadku biletu elektronicznego - jak zostało podane przy pierwszym odcinku lotu w dokumencie potwierdzenia podróży.
+
+ 
+ARTYKUŁ 4: PRZERWY W PODRÓŻY
+
+Przerwy w podróży na trasie wykazanej w bilecie są dozwolone w uzgodnionych punktach zgodnie z warunkami zastosowanej taryfy lub właściwymi przepisami państwowymi.
+
+ 
+ARTYKUŁ 5: TARYFY I OPŁATY
+
+5.1. POSTANOWIENIA OGÓLNE
+
+Taryfa obejmuje opłatę za przewóz lotniczy z portu lotniczego w miejscu rozpoczęcia podróży do portu lotniczego w miejscu zakończenia podróży, chyba że uzgodniono inaczej. W taryfach nie są ujęte koszty transportu naziemnego między lotniskami oraz między lotniskami i terminalami w centrum miast.
+
+5.2. STOSOWANIE TARYF
+
+Taryfami obowiązującymi w przewozie lotniczym są taryfy stosowane przez lub w imieniu przewoźnika w sposób przyjęty zwyczajowo, a dla przewozów, dla których brak opublikowanej taryfy – taryfy skonstruowane (wyliczone) zgodnie z przepisami przewoźnika. Z wyjątkiem przypadków odmiennie uregulowanych przepisami państwowymi, stosowaną taryfą jest taryfa obowiązująca w dniu wystawienia biletu ustalona na dzień rozpoczęcia podróży na pierwszym odcinku (data ustalona w bilecie), a w przypadku biletu elektronicznego - na pierwszym odcinku elektronicznym. Zmiana trasy lub daty podróży może wpłynąć na zmianę opłaconej taryfy. Niektóre taryfy mogą być częściowo lub całkowicie bezzwrotne (z wyłączeniem przypadków, kiedy właściwe prawo nakazuje zwrot bez względu na warunki taryfy), więc ich wybór powinien być dokonany w taki sposób, aby warunki taryfy odpowiadały potrzebom pasażera. Gdy pobrana opłata nie odpowiada taryfie, którą należało zastosować, powstała różnica będzie dopłacona przewoźnikowi albo zwrócona przez przewoźnika, zgodnie z warunkami zastosowanej taryfy.
+
+5.3. TRASA PODRÓŻY
+
+O ile przepisy przewoźnika nie stanowią inaczej, taryfy są stosowane jedynie do tras, które są objęte tą taryfą. Jeżeli określona taryfa umożliwia podróż po różnych trasach, pasażer może przed wystawieniem biletu określić wybraną trasę, a w przypadku, gdy tego nie zrobi, ustala ją sam przewoźnik.
+
+5.4. PODATKI I OPŁATY
+
+W momencie dokonywania zakupu biletu pasażer zobowiązany jest do uiszczenia stosownych podatków i opłat, które mogą być nakładane przez odpowiednie władze państwowe lub inne władze albo zarządzającego lotniskiem, niezależnie od taryfy i opłat należnych przewoźnikowi. Zmiana warunków umowy o przewóz (np. przewoźnika, trasy lub daty) na życzenie lub z winy pasażera powoduje naliczenie i pobranie aktualnie obowiązujących podatków lub opłat. W niektórych portach lotniczych pasażer może zostać obciążony przez władze portu lotniczego lub władze państwowe dodatkowymi opłatami administracyjnymi, niezależnymi od przewoźnika, które mogą być opłacane wyłącznie bezpośrednio na rzecz tych podmiotów. W przypadku niewykorzystania, bądź częściowego wykorzystania biletu, pasażer otrzyma zwrot odpowiednich opłat i podatków.
+
+Do biletu może być doliczona opłata transakcyjna za wystawienie lub przepisanie biletu, o której pasażer jest informowany przed zawarciem umowy przewozu lotniczego. Opłata ta nie podlega zwrotowi.
+
+5.5. WALUTA
+
+O ile przepisy właściwego prawa nie stanowią inaczej, taryfy i opłaty dodatkowe należne przewoźnikowi opłacane są w jakiejkolwiek walucie akceptowanej przez przewoźnika. Gdy płatność jest dokonana w walucie innej niż waluta, w której opublikowano taryfę - wysokość płatności oblicza się przy zastosowaniu bankowego kursu wymiany obowiązującego w dniu wystawienia biletu. Wszystkie płatności podlegają przepisom prawnym państwa, w którym bilet został sprzedany. 
+
+ 
+ARTYKUŁ 6: REZERWACJE
+
+6.1. WYMOGI ZWIĄZANE Z REZERWACJĄ
+
+6.1.1. Pasażer posiada potwierdzoną rezerwację, jeżeli bilet zawiera określenie numeru, daty i godziny lotu oraz adnotację „OK” w odpowiedniej rubryce, a w przypadku biletu elektronicznego – wskazanie, że rezerwacja został zarejestrowana i potwierdzona w systemie rezerwacyjnym przewoźnika.
+
+6.1.2. Warunki niektórych taryf mogą ograniczać lub wykluczać prawo pasażera do zmiany rezerwacji. Szczegółowe warunki określają postanowienia poszczególnych taryf.
+
+6.2. ANULOWANIE REZERWACJI PO UPŁYWIE USTALONEGO TERMINU WYSTAWIENIA BILETU
+
+Przewoźnik może anulować rezerwację, jeżeli pasażer nie zapłacił za bilet lub nie dopełnił formalności kredytowych z przewoźnikiem do ustalonego terminu wystawienia biletu.
+
+6.3. DANE OSOBOWE
+
+W celu zawarcia i realizacji umowy przewozu pasażer jest obowiązany do udostępnienia przewoźnikowi tych swoich danych osobowych, które są niezbędne dla dokonania rezerwacji, wystawienia biletu, realizacji umowy przewozu, w ewentualnym procesie reklamacyjnym, otrzymania innych świadczeń oraz dla dopełnienia wymogów imigracyjnych i innych dotyczących przekroczenia granicy. Przewoźnik będzie przetwarzał dane osobowe, o których mowa powyżej i przekazywał je odpowiednim organom publicznym lub innym odbiorcom, w tym m.in. upoważnionym agentom lub innym przewoźnikom dla celów związanych z realizacją powyższych lub innych prawnie uzasadnionych interesów realizowanych przez administratorów lub odbiorców danych.
+
+Pasażerowie są informowani i przyjmują do wiadomości, że każdy incydent związany z aktem bezprawnej ingerencji albo inny związany z zagrożeniem bezpieczeństwa lotu może być zarejestrowany w systemie komputerowym przewoźnika i ujawniony odpowiednim organom publicznym.
+
+Ponadto na podstawie stosownych przepisów prawa polskiego, unijnego i międzynarodowego w przypadku niektórych rejsów przewoźnik zobowiązany jest do udostępniania danych osobowych organom publicznym (polskim i zagranicznym), w szczególności w celu wykrywania i zwalczania przestępstw o charakterze terrorystycznym i innych przestępstw lub przestępstw skarbowych oraz zapobiegania im i ścigania ich sprawców, a także w celu zwalczania nielegalnej imigracji i usprawnienia kontroli granicznej.
+
+W związku z realizacją umowy przewozu dane osobowe pasażerów mogą być przekazane odbiorcom mającym siedziby poza Europejskim Obszarem Gospodarczym, którzy w związku z obowiązującymi przepisami prawa, jak i umowami międzynarodowymi są uprawnieni, aby otrzymywać takie informacje, albo gdy przekazanie danych będzie niezbędne dla wypełniania prawnie uzasadnionych interesów realizowanych przez administratorów lub odbiorców danych, w tym między innymi dla dopełnienia wymogów imigracyjnych, celnych i innych związanych z przekroczeniem granicy w krajach docelowych.
+
+Przewoźnik wyznaczył Inspektora Ochrony Danych jako osobę, z którą pasażerowie mogą się kontaktować za pośrednictwem adresu e-mail: iod@lot.pl w sprawach związanych z przetwarzaniem ich danych osobowych.
+
+Więcej informacji dotyczących przetwarzania danych osobowych przez przewoźnika znajduje się w Polityce Prywatności dostępnej na stronie http://lot.com/ochrona-danych-osobowych.
+
+6.4. PRZYDZIELENIE MIEJSCA SIEDZĄCEGO (FOTELA)
+
+6.4.1 W przypadku bezpłatnej rezerwacji miejsca przewoźnik w miarę możliwości uwzględnia życzenia pasażera dotyczące przydzielenia określonego miejsca na pokładzie samolotu bez żadnej opłaty na etapie odprawy, jednak zastrzega sobie możliwość zmiany przydzielonego miejsca, na które bilet został wystawiony, także gdy miejsce zostało wcześniej potwierdzone.
+
+6.4.2. Przewoźnik świadczy również usługę „Moje Ulubione Miejsce” umożliwiającą wcześniejszą rezerwację miejsca na pokładzie przed odlotem. Szczegóły oferty „Moje Ulubione Miejsce” dostępne są na stronie www.lot.com. 
+
+6.4.3. Po przydzieleniu miejsca w samolocie, ewentualna jego zmiana na pokładzie możliwa jest wyłącznie za zgodą personelu pokładowego.
+
+6.5. ODWOŁANIE DALSZYCH REZERWACJI
+
+Jeżeli pasażer nie dokonał zmian w bilecie zgodnie z faktycznym zamiarem podróży lub nie uiścił stosownej opłaty, o której mowa w Artykule 3 pkt 3.3, dalsze rezerwacje mogą zostać anulowane przez przewoźnika.
+
+ 
+ARTYKUŁ 7: ODPRAWA PASAŻERSKA
+
+Pasażer powinien zgłosić się do odprawy pasażerskiej i wejścia do samolotu przed odlotem w czasie pozwalającym na dopełnienie formalności wymaganych przez odpowiednie władze państwowe oraz procedur związanych z odlotem, a w każdym razie nie później niż określił to przewoźnik jako minimalny czas odprawy. Jeżeli pasażer nie posiada odpowiednich dokumentów i nie jest gotowy do podróży bądź nie zgłasza się do odprawy pasażerskiej lub wejścia do samolotu w czasie wyznaczonym przez przewoźnika, przewoźnik może anulować rezerwację miejsca dla takiego pasażera i nie jest zobowiązany do opóźnienia odlotu oczekując na pasażera. Przewoźnik nie ponosi odpowiedzialności wobec pasażera za szkody lub wydatki powstałe na skutek niedopełnienia przez pasażera wymogów wynikających z niniejszego Artykułu. Jeżeli pasażer po odprawie nie zgłosił się do wejścia do samolotu i z tego powodu nastąpiło opóźnienie odlotu związane z wyładowaniem zarejestrowanego bagażu, pasażer obowiązany jest ponieść związane z tym koszty. Szczegółowe informacje dotyczące odprawy, w tym w szczególności godziny jej zamknięcia, znajdują się na stronie www.lot.com.
+
+ 
+ARTYKUŁ 8: ODMOWA, OGRANICZENIA I SZCZEGÓLNE WARUNKI PRZEWOZU
+
+8.1. ODMOWA PRZEWOZU
+
+Przewoźnik może odmówić przewozu pasażera lub jego bagażu, jeżeli zgodnie ze swoją oceną uzna, że:
+
+    jest to wskazane ze względów bezpieczeństwa lub ochrony zdrowia jakiegokolwiek pasażera;
+    jest to konieczne, aby zapobiec naruszeniu ustaw, zarządzeń lub innych przepisów państwa, na którego terytorium będzie miało miejsce rozpoczęcie podróży, przerwa w podróży lub jej zakończenie, albo nad którym nastąpi przelot statku powietrznego lub
+    nie uchybiając Artykułowi 8 pkt 8.2., zachowanie, wiek, stan fizyczny lub psychiczny pasażera jest taki, że:
+        wymaga on specjalnej opieki przewoźnika,
+        prowadzi do oczywistego naruszania przez pasażera dobrych obyczajów, co może budzić poważne zastrzeżenia innych pasażerów lub
+        stanowi zagrożenie dla siebie samego, innych pasażerów lub czyjegoś mienia;
+    pasażer nie stosuje się do instrukcji i poleceń przewoźnika dotyczących w szczególności bezpieczeństwa i porządku na pokładzie
+    pasażer dopuścił się istotnego wprowadzenia w błąd, szykanowania (np. żarty dotyczące posiadania broni lub innych materiałów niebezpiecznych) albo używa sformułowań lub zachowuje się w taki sposób, że (i) istnieją wątpliwości w odniesieniu do bezpieczeństwa na pokładzie lub (ii) przewoźnik, jego załoga lub personel naziemny, jego statek powietrzny/mienie lub własność, jego usługi (w tym oferowany program lojalnościowy) lub jego pasażerowie ponieśli jakąkolwiek szkodę bezpośrednią lub pośrednią. Takie sformułowania lub zachowanie obejmują użycie gróźb, obraźliwego lub obelżywego języka wobec personelu naziemnego lub załogi oraz dotyczą pasażerów budzących zagrożenie lub których zachowanie zagraża bezpieczeństwu jednej lub więcej osób, towarów lub mieniu przewoźnika;
+    pasażer odmówił poddania się lub przewożonych przez siebie przedmiotów kontroli bezpieczeństwa, przeprowadzanej przez służby ochrony na lotnisku, które czuwają nad bezpieczeństwem lotów;
+    pasażer dopuścił się podczas wcześniejszego lotu lub podczas odprawy na lot albo w przypadku lotów z przesiadką, w czasie poprzedniego lotu, aktu bezprawnej ingerencji lub naruszył bezpieczeństwo, porządek, dobre obyczaje lub dyscyplinę, w tym postanowienia Artykułu 12, a przewoźnik ma powody przypuszczać, że takie zachowanie się powtórzy i pisemnie poinformował pasażera o odmowie przewozu na wszystkich rejsach przewoźnika;
+    nie zostały opłacone obowiązujące taryfy, opłaty lub podatki lub nie zostały dopełnione formalności kredytowe pomiędzy przewoźnikiem i pasażerem (lub osobą płacącą za bilet);
+    pasażer nie posiada wymaganych dokumentów lub odmawia przedstawienia - na żądanie przewoźnika - odpowiednich dokumentów wymienionych w Artykule 14 pkt 14.2;
+    istnieje uzasadniona obawa, że pasażer będzie usiłował przekroczyć granice kraju, w którym będzie przebywał w tranzycie;
+    pasażer zniszczył wymagane dokumenty lub odmówił przekazania dokumentów podróży na czas jej trwania za pokwitowaniem personelowi przewoźnika, jeżeli jest to wymagane przez właściwe władze państwowe;
+    pasażerowi odmówiono wjazdu do kraju miejsca rozpoczęcia podróży, jej zakończenia albo przez którego terytorium podróż się odbywa;
+    bilet okazany przez pasażera:
+        został nabyty nielegalnie lub nie był zakupiony u przewoźnika lub uprawnionego przez niego agenta
+        został zgłoszony jako zagubiony lub skradziony
+        jest sfałszowany lub
+        posiada odcinek lotu lub odcinek elektroniczny, w których zmiany wprowadził ktoś inny niż przewoźnik lub uprawniony przez niego agent, względnie odcinek został uszkodzony;
+    okaziciel biletu nie może udowodnić, że to jego nazwisko jest wpisane w rubryce biletu: "Nazwisko pasażera";
+    pasażer nie dokonał zmiany biletu lub nie uiścił opłaty za zmianę biletu zgodnie z Artykułem 3 pkt 3.3.
+
+8.1.1. Jeśli w związku z zachowaniem pasażera wskazanym w pkt 8.1 lit. d, e i g przewoźnik poniósł szkodę, to wówczas będzie domagał się bezpośrednio od pasażera kosztów powstałych na skutek takiego niewłaściwego zachowania.
+
+8.2. POMOC DEDYKOWANA.
+
+8.2.1. Przewoźnik dołoży starań, aby ułatwić podróżowanie osobom chorym, pasażerom z niepełnosprawnościami, dzieciom bez opieki oraz kobietom w ciąży. Przyjęcie do przewozu dzieci bez opieki, osób chorych, osób z niepełnosprawnościami lub kobiet w ciąży może być uzależnione od wcześniejszego uzgodnienia z przewoźnikiem warunków dokonania takiego przewozu, zgodnie z obowiązującym prawem.
+
+8.2.2. Na niektórych typach statków powietrznych mogą wystąpić ograniczenia dotyczące przewozu pasażerów z niepełnosprawnościami.  Zaleca się, aby pasażerowie poinformowali przewoźnika o swojej niepełnosprawności lub jakimkolwiek zapotrzebowaniu na pomoc dedykowaną w chwili dokonywania rezerwacji. Jeśli prośba o pomoc dedykowaną złożona zostanie po dokonaniu rezerwacji lub po czasie określonym przepisami prawa, przewoźnik dołoży wszelkich starań, aby spełnić prośbę pasażera z niepełnosprawnością zgodnie z obowiązującymi przepisami, biorąc pod uwagę przede wszystkim termin i szczególny charakter wymaganej pomocy. 
+
+Szczegółowe zasady dotyczące przewozu osób, o których mowa w zdaniach poprzedzających można znaleźć na stronie internetowej przewoźnika www.lot.com.
+
+8.2.3. W przypadku, gdy pasażer nie poinformował przewoźnika o chorobie lub niepełnosprawności uzasadniającej pomoc dedykowaną i w związku z tą chorobą lub niepełnosprawnością przewoźnik zmienia kierunek lotu do nieplanowanego miejsca lądowania, przewoźnik ma prawo odzyskać uzasadnione koszty za zmianę kierunku lotu oraz inne koszty powstałe w związku z tym zdarzeniem, za wyjątkiem przypadków siły wyższej oraz zawinionego działania po stronie przewoźnika.
+
+ 
+ARTYKUŁ 9: BAGAŻ
+
+9.1. POSTANOWIENIA OGÓLNE
+
+a) pasażer oświadcza, że jest w pełni świadomy zawartości swojego bagażu;
+
+b) pasażer zobowiązuje się nie zostawiać bagażu bez opieki od momentu jego spakowania oraz nie przyjmować przedmiotów należących do innego pasażera lub jakiejkolwiek osoby trzeciej;
+
+c) pasażer zobowiązuje się nie podróżować z bagażem powierzonym mu przez osobę trzecia.
+
+9.1.1. PRZEDMIOTY, KTÓRE NIE MOGĄ BYĆ PRZEWOŻONE W BAGAŻU
+
+Pasażer nie może umieszczać w swoim bagażu:
+
+    przedmiotów, które mogą narazić na niebezpieczeństwo samolot, osoby lub mienie przewożone na pokładzie samolotu i które określono w przepisach o artykułach niebezpiecznych, wydanych przez Organizację Międzynarodowego Lotnictwa Cywilnego ICAO i Zrzeszenie Międzynarodowego Transportu Lotniczego IATA oraz w odpowiednich przepisach (dalszych informacji przewoźnik udzieli na żądanie);
+    przedmiotów, których przewóz jest zabroniony przez obowiązujące prawo państwa, na którego terytorium będzie miał miejsce start lub lądowanie albo nad którym nastąpi przelot statku powietrznego;
+    przedmiotów, które przewoźnik uzna za nieodpowiednie do przewozu ze względu na ich wagę, kształt, rozmiary i właściwości (jak np. kruchość, łatwe psucie się), a także ze względów operacyjnych lub bezpieczeństwa;
+    żywych zwierząt, z wyjątkiem przypadków przewidzianych w pkt 9.9. – Zwierzęta;
+    spirytusu;
+    innego alkoholu poza fabrycznie zamkniętymi opakowaniami.
+
+9.1.2. Nie wolno przewozić w bagażu pasażerskim broni palnej i amunicji, z wyjątkiem broni i amunicji sportowej i myśliwskiej. Broń palna sportowa i myśliwska lub amunicja sportowa i myśliwska mogą być przyjęte do przewozu tylko jako rejestrowany bagaż pasażerski, po okazaniu jej przewoźnikowi. Broń nie może być naładowana, musi być zabezpieczona i powinna być właściwie opakowana. Przewóz amunicji regulują przepisy ICAO i IATA o artykułach niebezpiecznych oraz odpowiednie przepisy państwowe.
+
+9.1.3. Broń taka jak: miecze/szpady, noże, zabytkowa broń palna, repliki broni palnej, może być przyjęta do przewozu jako bagaż rejestrowany po uprzednim uzgodnieniu warunków przewozu z przewoźnikiem. Przewóz takich przedmiotów w kabinie pasażerskiej jest niedozwolony.
+
+9.2 ZALECENIA ODNOŚNIE PRZEWOZU NIEKTÓRYCH PRZEDMIOTÓW
+
+9.2.1 Zaleca się nieumieszczanie w bagażu rejestrowanym przedmiotów łatwo tłukących się i łatwo psujących się. W przypadku, gdy pasażer umieści takie przedmioty w bagażu, to powinien dopilnować, aby zostały one należycie i bezpiecznie zapakowane w sposób zapewniający nie uszkodzenie bagażu pasażera oraz innych pasażerów, a także mienia przewoźnika.
+
+9.2.2. Przewoźnik zaleca również nieumieszczanie w bagażu rejestrowanym m.in. pieniędzy, biżuterii, cennych metali, dzieł sztuki, komputerów, aparatów fotograficznych, telefonów komórkowych, innych urządzeń elektronicznych, instrumentów muzycznych, wyrobów ze srebra i złota, weksli, papierów wartościowych i innych przedmiotów wartościowych, dokumentów handlowych, próbek handlowych, paszportów i innych dokumentów tożsamości, przyrządów optycznych, lekarstw, okularów, okularów przeciwsłonecznych i kluczy. Zaleca się przewóz tych przedmiotów w bagażu podręcznym.
+
+9.2.3 Zaleca się również nieumieszczanie na bagażu np. zawieszek, a także dodatkowych przedmiotów, które podczas transportu mogą ulec zniszczeniu/odczepieniu lub spowodować uszkodzenia innego bagażu. 
+
+9.3. PRAWO ODMOWY PRZEWOZU
+
+9.3.1. Przewoźnik może odmówić przewozu jako bagażu któregokolwiek przedmiotu określonego powyżej jako zabronionego do przewozu oraz może odmówić dalszego przewozu takiego przedmiotu, jeżeli zostanie on wykryty w bagażu.
+
+9.3.2. Przewoźnik może odmówić przyjęcia bagażu jako bagażu rejestrowanego, jeżeli nie jest on właściwie opakowany w sposób gwarantujący bezpieczny przewóz, przy zachowaniu zwykłej staranności w obsłudze. Ponadto przewoźnik może odmówić przewozu bagażu, w przypadku gdy ze względu na wielkość, kształt, wagę, zawartość lub rodzaj albo ze względów bezpieczeństwa lub komfort innych pasażerów nie nadaje się on do przewozu.
+
+9.3.3 Pasażer nie powinien przewozić bagażu rejestrowanego i nierejestrowanego, którego zawartości nie zna lub otrzymał bagaż od osób nieznajomych.
+
+9.4. PRAWO KONTROLI BAGAŻU
+
+9.4.1. Ze względów bezpieczeństwa przewoźnik może zażądać od pasażera zgody na dokonanie rewizji lub kontroli polegającej na prześwietleniu bagażu lub innego rodzaju kontroli bagażu. Pod nieobecność pasażera przewoźnik może przeprowadzić rewizję lub kontrolę jego bagażu w celu ustalenia, czy nie znajdują się w nim przedmioty wymienione w niniejszym artykule w pkt 9.1.1. oraz 9.1.2. lub innego rodzaju broń lub amunicja, które zostały ukryte przed przewoźnikiem. W przypadku odmowy poddania się rewizji lub kontroli, o której mowa w zdaniach poprzednich niniejszego punktu, przewoźnik może odmówić przewiezienia pasażera oraz jego bagażu.
+
+9.4.2. NADANIE BAGAŻU
+
+Pasażer może nadać bagaż jedynie do miejsca przeznaczenia, do którego sam się udaje, zgodnie
+
+z trasą oznaczoną na bilecie (na danym odcinku lub odcinkach lotu). Nie jest dozwolone przerwanie podróży w miejscu międzylądowania, jeżeli bagaż pasażera został nadany do innego, dalszego miejsca przeznaczenia, a przewoźnik nie ma możliwości nie powodując opóźnienia startu samolotu wyszukania w luku bagażowym i wydania kompletnego bagażu należącego do pasażera, który zgłosił chęć opuszczenia samolotu podczas międzylądowania. W przypadku, gdy pasażer pomimo to przerywa podróż, jest on zobowiązany do pokrycia wszystkich kosztów związanych z wyszukaniem bagażu i opóźnieniem samolotu.
+
+9.5. PRZEWÓZ BAGAŻU REJESTROWANEGO
+
+9.5.1. Po dostarczeniu bagażu przewoźnikowi w celu zarejestrowania, przewoźnik przejmuje bagaż pod swoją opiekę i wystawia przywieszkę bagażową dla każdej sztuki rejestrowanego bagażu oraz wydaje pasażerowi odcinek kontrolny tej przywieszki.
+
+9.5.2. Bagaż rejestrowany jest co do zasady przewożony tym samym rejsem co pasażer, o ile przewoźnik nie zadecyduje, że jest to niewykonalne ze względów bezpieczeństwa, technicznych lub operacyjnych. W takim przypadku, jeśli nie sprzeciwiają się temu przepisy dotyczące kontroli celnej, bagaż dostarczony zostanie przez przewoźnika do miejsca pobytu lub innego wskazanego przez pasażera.
+
+9.5.4. SPECJALNA DEKLARACJA WARTOŚCI
+
+W przypadku bagażu rejestrowanego, którego wartość przekracza limity odpowiedzialności ustanowione na podstawie Konwencji na wypadek zniszczenia, utraty, uszkodzenia lub opóźnienia, pasażerowie mogą albo ubezpieczyć cały bagaż przed wylotem albo – przy przekazaniu bagażu przewoźnikowi – złożyć Specjalną Deklarację Wartości, której przyjęcie uzależnione może być od uiszczenia stosownej opłaty.
+
+9.5.5. Przewoźnik może odmówić przyjęcia specjalnej deklaracji wartości bagażu w przypadku, gdy część przewozu wykonywana jest przez innego przewoźnika, który nie oferuje takiej usługi.
+
+9.6. BAGAŻ WOLNY OD OPŁATY
+
+Pasażer może przewozić bezpłatnie jedynie bagaż zgodny z warunkami i ograniczeniami ustalonymi przez przewoźnika. Stosowne informacje pasażer może uzyskać na stronie www.lot.com .
+
+9.7. NADBAGAŻ
+
+Pasażer za przewóz bagażu przekraczającego limit bagażu wolnego od opłaty uiszcza opłatę według stawek i w sposób przewidziany przez przewoźnika. Stosowne informacje dostępne są na stronie www.lot.com.
+
+9.8. PRZEWÓZ BAGAŻU NIEREJESTROWANEGO
+
+9.8.1. Bagaż nierejestrowany wnoszony przez pasażera na pokład samolotu musi zmieścić się pod fotelem znajdującym się przed miejscem pasażera lub w zamkniętym schowku bagażowym w kabinie pasażerskiej. Przedmioty uznane przez przewoźnika za zbyt ciężkie lub za duże będą przewożone na zasadach bagażu rejestrowanego. Dopuszczalne wymiary i waga bagażu nierejestrowanego są określone przez przewoźnika i opublikowane na stronie internetowej www.lot.com.
+
+9.8.2. Przedmioty przewożone jako bagaż nierejestrowany, w szczególności książka, płaszcz, mała torebka damska, laska lub parasolka, składany wózek inwalidzki lub dziecięcy oraz inne, niezbędne pasażerowi w czasie podróży, nie są wliczane do limitu bagażu nierejestrowanego.
+
+9.8.3. Przewoźnik, jeżeli nie ma wystarczającej ilości miejsca w kabinie, może niezależnie od dopuszczonych przez niego rozmiarów i wagi bagażu, zażądać przekazania go do przewozu w luku bagażowym na zasadach bagażu rejestrowanego. W takim przypadku zaleca się, aby pasażer wyjął z bagażu przedmioty określone w pkt 9.2.1. i 9.2.2.
+
+9.8.4. Przedmioty nieodpowiednie do transportu w lukach bagażowych samolotu, takie jak instrumenty muzyczne itp., będą mogły być przewożone w kabinie pasażerskiej tylko po uprzednim uzgodnieniu z przewoźnikiem. Przewoźnik może zażądać określonej opłaty za przewóz tych przedmiotów.
+
+9.9. ODBIÓR BAGAŻU
+
+9.9.1. Pasażer powinien odebrać swój bagaż niezwłocznie, gdy jest on gotowy do odbioru w miejscu, do którego bagaż został odprawiony zgodnie z trasą podróży. W przypadku nieodebrania bagażu przewoźnik będzie uprawniony do dysponowania bagażem w terminach i na zasadach określonych w odpowiednich przepisach prawa.
+
+9.9.2. Odbiorcą bagażu rejestrowanego może być jedynie posiadacz biletu pasażerskiego oraz odcinka kontrolnego przywieszki bagażowej, który mu wręczono w momencie odprawy bagażu. Niemożność okazania odcinka kontrolnego przywieszki bagażowej nie wstrzymuje wydania bagażu pod warunkiem, że okazano bilet pasażerski, a bagaż daje się zidentyfikować za pomocą innych oznaczeń.
+
+9.9.3. Jeżeli osoba odbierająca bagaż nie może okazać biletu pasażerskiego oraz zidentyfikować bagażu przez okazanie odcinka kontrolnego przywieszki bagażowej, przewoźnik wyda bagaż takiej osobie, ale pod warunkiem, że przedstawi ona dowody o prawie do tego bagażu oraz, gdy przewoźnik tego zażąda, dostarczy wystarczające zabezpieczenie pozwalające wyrównać przewoźnikowi ewentualne szkody lub wydatki, które mogłyby powstać w wyniku wydania takiego bagażu.
+
+9.9.4. Jeżeli posiadacz biletu pasażerskiego nie składa reklamacji w momencie odebrania bagażu domniemywa się (o ile brak dowodu przeciwnego), że bagaż został odebrany w dobrym stanie i zgodnie z umową o przewóz. Jeśli pomimo tego pasażer składa reklamację w terminach przewidzianych w Artykule 17, wówczas powinien udowodnić, że szkoda powstała w przewozie.
+
+9.10. ZWIERZĘTA
+
+9.10.1. Tylko koty i psy mogą podróżować jako zwierzęta w kabinie lub w luku bagażowym. Przewóz zwierząt wymaga uprzedniej zgody przewoźnika i uiszczenia stosownej opłaty. Zwierzęta powinny być umieszczone w odpowiednich kontenerach wraz z żywnością oraz zaopatrzone w ważne świadectwa weterynaryjne dotyczące stanu zdrowia i szczepień, zezwolenia na wjazd i inne dokumenty wymagane przez organy państwa, w których ma nastąpić koniec podróży oraz organy państw tranzytowych.
+
+9.10.2. Przyjęte do przewozu jako rejestrowany bagaż pasażerski zwierzę wraz z kontenerem i żywnością nie jest włączone do limitu bagażu bezpłatnego, lecz stanowi nadwyżkę bagażową, za którą pasażer płaci w oparciu o obowiązujące stawki. 
+
+9.10.3. Pies - przewodnik niewidomego lub niesłyszącego pasażera, pies asystujący lub wspomagający terapię jest przewożony bezpłatnie, zgodnie z obowiązującymi przepisami. Szczegółowe informacje dostępne są na stronie www.lot.com.
+
+9.10.4. Przewoźnik ponosi odpowiedzialność za przewóz zwierząt na zasadach określonych w Rozporządzeniu i Konwencji, a dotyczących przewozu bagażu i towaru. Przewoźnik nie ponosi odpowiedzialności poza odpowiedzialnością, o której mowa w zdaniu poprzednim, za jakiekolwiek zranienia, zagubienie, opóźnienia, choroby czy zgon zwierzęcia, chyba że szkoda powstała z winy przewoźnika.
+
+9.10.5. Przewoźnik nie ponosi odpowiedzialności w przypadku oszustwa, braku lub nieważności wymaganych dokumentów do przewozu zwierząt. W przypadku odmowy wjazdu lub przewozu zwierzęcia przez jakiekolwiek państwo przewoźnik nie ponosi odpowiedzialności za obrażenia, utratę, opóźnienie, chorobę lub śmierć przewożonego zwierzęcia, chyba że powodem była wina lub zaniedbanie po stronie przewoźnika. W odniesieniu do pasażerów, którzy nie zastosują się do obowiązujących przepisów i wymogów państwa, przez terytorium którego albo do którego odbywa się przewóz zwierzęcia, przewoźnik dochodził będzie grzywien, strat, rekompensat oraz kosztów poniesionych w wyniku takiej sytuacji.
+
+9.10.6. W przypadku, gdy zwierzę przewożone jest w kabinie pasażerskiej, powinno ono znajdować się pod stałą opieką pasażera i nie jest uprawnione do samodzielnego poruszania się w kabinie pasażerskiej. Ze względów bezpieczeństwa pasażer powinien zabezpieczyć zwierzę przed ewentualnym kontaktem z innymi pasażerami i trzymać je na smyczy lub na uprzęży albo w przewożonym kontenerze przez cały czas pobytu na pokładzie. W przypadku przewożenia psa, musi on posiadać kaganiec na wypadek agresywnego zachowania z zastrzeżeniem wyjątków przewidzianych w przepisach prawa w odniesieniu do psa asystującego.
+
+ 
+ARTYKUŁ 10: NIEREGULARNOŚCI W PRZEWOZIE
+
+10.1. Przewoźnik dołoży należytej staranności, aby przewieźć pasażera i jego bagaż zgodnie z obowiązującym w dniu podróży rozkładem. Rozkład lotów może ulec zmianie, przy czym przewoźnik zobowiązany jest powiadomić o takiej zmianie indywidualnie pasażerów, którzy wykupili już bilety na rejsy, których dotyczy zmiana rozkładu. Zaleca się, żeby pasażer bez względu na podmiot, za pośrednictwem którego dokonuje rezerwacji, z chwilą jej dokonania udostępnił w systemie rezerwacyjnym przewoźnika swoje dane kontaktowe w celu umożliwienia kontaktu z przewoźnikiem na wypadek ewentualnych nieregularności lub innych sytuacji powstałych już w trakcie przewozu, a dotyczących osoby pasażera. W przypadku zmian godzin wylotu, które nie są akceptowalne z punktu widzenia pasażera, ma on prawo do zwrotu ceny zgodnie z Artykułem 11 pkt 11.3.
+
+10.2. W przypadku odwołania lub opóźnienia lotu, a także w przypadku odmowy przyjęcia na pokład, pasażerowie uprawnieni będą do określonych świadczeń na podstawie obowiązujących przepisów prawa.
+
+ 
+ARTYKUŁ 11: ZWROTY
+
+11.1. POSTANOWIENIA OGÓLNE
+
+Zwrot za bilet lub jego niewykorzystaną część dokonywany jest zgodnie z postanowieniami niniejszego Artykułu z zastrzeżeniem Artykułu 5 pkt 5.4.
+
+11.2. OSOBA UPRAWNIONA DO OTRZYMANIA ZWROTU
+
+11.2.1. Oprócz wyjątków przewidzianych poniżej przewoźnik dokonuje zwrotu osobie wymienionej w bilecie lub osobie, która zapłaciła za bilet, po uzyskaniu dowodu zapłaty na rzecz przewoźnika.
+
+11.2.2. Pasażer, którego nazwisko jest podane w bilecie lub osoba, która za niego zapłaciła może upoważnić wskazaną przez siebie osobę do odbioru należności za niewykorzystany bilet lub jego część. Jeżeli bilet został opłacony przez inną osobę niż pasażer wymieniony w bilecie i przewoźnik wpisał do biletu zastrzeżenie ograniczające wypłatę zwrotu, to przewoźnik dokona go jedynie osobie, która za bilet zapłaciła albo osobie przez nią upoważnionej.
+
+11.2.3. Z wyjątkiem przypadku zagubienia biletu oraz biletów elektronicznych zwroty są dokonywane tylko po oddaniu przewoźnikowi wszystkich niewykorzystanych odcinków lotu wraz z odcinkiem potwierdzeniem dla pasażera i ewentualnym rachunkiem.
+
+11.2.4. Zwrot dokonany osobie przedstawiającej odcinek dla pasażera wraz z niewykorzystanymi odcinkami lotu i ewentualnym rachunkiem, zgodnie z postanowieniami pkt 11.2.1. lub 11.2.2., jest uważany za zwrot osobie uprawnionej i zwalnia przewoźnika od dalszej odpowiedzialności z tytułu zwrotu.
+
+11.2.5 Zwrot dokonywany jest w takiej samej formie, w jakiej zapłacono za bilet.
+
+11.3. ZWROTY Z PRZYCZYN LEŻĄCYCH PO STRONIE PRZEWOŹNIKA
+
+Jeżeli przewoźnik:
+
+    odwołuje lot lub
+    nie może wykonać lotu w rozsądnym czasie zgodnie z ustalonym rozkładem lub
+    omija rozkładowy punkt lądowania, który jest miejscem docelowym albo miejscem przerwy w podróży pasażera lub
+    nie jest w stanie zapewnić pasażerowi miejsca w samolocie, które zostało uprzednio przez niego potwierdzone przy zakupie biletu
+    powoduje, że pasażer traci następne połączenie, na które ma potwierdzoną rezerwację, wysokość zwrotu będzie odpowiadać:
+
+    jeżeli bilet jest całkowicie niewykorzystany – kwocie równej opłacie pobranej od pasażera (bez żadnych potrąceń);
+    jeżeli bilet jest częściowo wykorzystany, wyższej kwocie wynikającej z porównania:
+
+    taryfy za przelot w jedną stronę (pomniejszonej o ewentualnie zastosowane zniżki) od miejsca przerwy do miejsca przeznaczenia albo następnego punktu zatrzymania, z
+    różnicą pomiędzy opłaconą taryfą za całą podróż a taryfą, którą należałoby opłacić za podróż na wykorzystanych odcinkach.
+
+11.4. ZWROTY NA ŻYCZENIE PASAŻERA
+
+Jeżeli pasażer żąda zwrotu należności za bilet z powodów innych niż wymienione w pkt 11.3.,
+
+a zastosowana taryfa nie wyłącza prawa do zwrotu, wysokość zwrotu wynosić będzie:
+
+    jeżeli żaden z odcinków biletu nie został wykorzystany – kwotę równą taryfie pobranej od pasażera pomniejszoną o ewentualne opłaty wynikające z warunków stosowania danej taryfy specjalnej lub
+
+o opłatę manipulacyjną pobieraną przy zwrotach, jeśli taka ma zastosowanie;
+
+    jeżeli bilet jest częściowo wykorzystany, a przepisy taryfowe na to pozwalają – kwotę stanowiącą różnicę pomiędzy taryfą zapłaconą a taryfą stosowaną dla trasy przebytej w oparciu o przedstawiony do zwrotu bilet pomniejszoną o ewentualne opłaty wynikające ze stosowania danej taryfy specjalnej lub o opłatę manipulacyjną pobieraną przy zwrotach, jeżeli taka ma zastosowanie.
+
+11.5. PRAWO ODMOWY ZWROTU
+
+11.5.1. Przewoźnik może odmówić dokonania zwrotu, jeżeli żądanie zwrotu zostało skierowane do przewoźnika po upływie jednego roku, licząc od dnia wygaśnięcia ważności biletu, ustalonej zgodnie z postanowieniami Artykułu 3 pkt 3.2.
+
+11.5.2. Przewoźnik może odmówić dokonania zwrotu, dopóki nie otrzyma dowodu zapłaty od pasażera lub osoby, która zapłaciła za bilet.
+
+11.5.3. Przewoźnik może odmówić zwrotu za bilet, który przedstawiono jemu lub przedstawicielowi władz państwowych jako dowód potwierdzający zamiar opuszczenia danego państwa, chyba że pasażer udowodni, że posiada zezwolenie na pozostanie w danym państwie lub że opuści je korzystając z usługi innego przewoźnika lub innego środka transportu.
+
+11.5.4. Przewoźnik może odmówić dokonania zwrotu za niewykorzystany bilet (odcinki), jeżeli niewykorzystanie tego biletu (odcinków) nastąpiło z powodów określonych w Artykule 12 pkt 12.1. i przewoźnik postanowił zabezpieczyć wartość biletu (odcinków) na zaspokojenie roszczeń wobec pasażera za szkody wyrządzone innemu pasażerowi lub przewoźnikowi.
+
+11.6. WALUTA
+
+Wszystkie zwroty podlegają przepisom prawnym państwa, w którym bilet został sprzedany i państwa, w którym zwrot jest dokonywany. Zwrot następuje co do zasady w walucie, w której dokonano płatności za bilet. W szczególnie uzasadnionych przypadkach, gdy zwrot w walucie płatności za bilet nie jest możliwy lub napotyka poważne obiektywne przeszkody (np. z uwagi na to, że zwrotu ceny biletu dokonuje się w innym kraju niż kraj zakupu biletu) przewoźnik dokonuje zwrotu w walucie obowiązującej w kraju, w którym dokonywany jest zwrot lub innej walucie uzgodnionej pomiędzy przewoźnikiem i uprawnionym do zwrotu, dopuszczalnej przepisami prawa.
+
+11.7. PODMIOTY UPRAWNIONE DO DOKONANIA ZWROTU
+
+Zwrot na żądanie pasażera jest dokonywany tylko przez tego przewoźnika, który wystawił bilet lub upoważnionego do tego przez niego agenta.
+
+ 
+ARTYKUŁ 12: ZACHOWANIE NA POKŁADZIE SAMOLOTU
+
+12.1. Na pokładzie statku powietrznego obowiązuje całkowity zakaz palenia papierosów i spożywania alkoholu wniesionego na pokład przez pasażera.
+
+12.2. Nagrywanie filmów lub robienie zdjęć innych niż dla celów prywatnych jest zabronione.
+
+12.3 Jeżeli według oceny przewoźnika pasażer swoim zachowaniem na pokładzie samolotu naraża na niebezpieczeństwo statek powietrzny, osobę lub mienie znajdujące się na pokładzie, utrudnia załodze wykonywanie obowiązków, nie stosuje się do poleceń załogi odnośnie ograniczeń i zakazów palenia (w tym papierosów tradycyjnych, elektronicznych, jak i innych sztucznych form palenia), spożywania alkoholu i środków odurzających na pokładzie lub zachowuje się w sposób budzący uzasadniony sprzeciw pasażerów, przewoźnik może podjąć stosowne czynności, które uzna za konieczne, aby powstrzymać takie zachowanie, łącznie z zastosowaniem środków przymusu, usunięciem go ze statku powietrznego po wylądowaniu i odmową dalszego przewozu i przewozów także w przyszłości. W celu zapewnienia bezpieczeństwa lotu oraz bezpieczeństwa i porządku na pokładzie statku powietrznego dowódca statku powietrznego jest upoważniony do wydawania poleceń wszystkim osobom znajdującym się na pokładzie statku powietrznego i wszystkie osoby obecne na pokładzie statku są obowiązane wypełniać polecenia dowódcy. Przewoźnik zastrzega sobie prawo dochodzenia roszczeń wobec pasażera, który wyrządził szkodę innemu pasażerowi lub przewoźnikowi.
+
+12.4 Jeśli pasażer nie stosuje się do postanowień niniejszego Artykułu, przewoźnik może podjąć wszelkie niezbędne odpowiednie i uzasadnione środki, zgodnie z przepisami powszechnie obowiązującymi. W tym celu przewoźnik może wysadzić pasażera z samolotu w najbliższym porcie lotniczym włącznie z przekazaniem pasażera odpowiednim władzom lub zastosować rozsądne środki na każdym etapie lotu oraz odmówić przewozu zgodnie z Artykułem 8 pkt. 8.1.
+
+12.5. ZAWRÓCENIE SAMOLOTU SPOWODOWANE NIEWŁAŚCIWYM ZACHOWANIEM PASAŻERA
+
+Przewoźnik zastrzega sobie również prawo dochodzenia zwrotu kosztów lądowania spowodowanego niewłaściwym zachowaniem pasażera, jeśli w wyniku takiego zachowania samolot ląduje w miejscu niebędącym miejscem przeznaczenia danego lotu.
+
+12.6. Ze względów bezpieczeństwa lotu przewoźnik może wprowadzić zakaz lub ograniczenia posługiwania się na pokładzie samolotu urządzeniami takimi jak na przykład: przenośnym radiem i komputerem/laptopem, telefonem komórkowym, grami elektronicznymi, urządzeniami nadawczymi, zabawkami sterowanymi falami radiowymi i radiotelefonem. Dozwolone jest używanie aparatów słuchowych i aparatów kontrolujących pracę serca.
+
+12.7. Pasażer ma obowiązek pozostać w swoim fotelu przez cały czas trwania rejsu. Siedząc w fotelu należy mieć zapięte pasy bezpieczeństwa. Jednocześnie w przypadku lotów długodystansowych przewoźnik rekomenduje kilkukrotne wykonywanie ćwiczeń zgodnie z instrukcjami zamieszczonymi w materiałach dostępnych na pokładzie.
+
+ 
+ARTYKUŁ 13: ŚWIADCZENIE DODATKOWYCH USŁUG
+
+13.1. Jeżeli w związku z zawarciem umowy o przewóz lotniczy przewoźnik dokonuje zamówienia usługi na rzecz pasażera od osoby trzeciej, to w tym zakresie działa jako agent. W takim przypadku obowiązują warunki umowne danego usługodawcy.
+
+13.2. Jeżeli przewoźnik zobowiązał się do świadczenia przewozu naziemnego, taki transport może podlegać odrębnym warunkom przewozu.
+
+ 
+ARTYKUŁ 14: FORMALNOŚCI ADMINISTRACYJNE
+
+14.1. POSTANOWIENIA OGÓLNE
+
+Wyłącznie pasażer odpowiedzialny jest za podporządkowanie się wszystkim przepisom, uregulowaniom, poleceniom, żądaniom i wymaganiom związanym z podróżą obowiązującym w państwie, z którego wylatuje, do którego przylatuje, lub nad którego terytorium przelatuje, jak również za podporządkowanie się instrukcjom przewoźnika.
+
+Przewoźnik, jego pracownicy, agenci, przedstawiciele i pełnomocnicy nie są zobowiązani do udzielania pasażerom i osobom trzecim pomocy ani informacji w związku z uzyskiwaniem niezbędnych dokumentów (w tym wiz) lub stosowaniem się do obowiązujących przepisów i nie odpowiadają za konsekwencje, jakie poniesie pasażer na skutek posiadania błędnych informacji, a także nieotrzymania takich dokumentów (w tym wiz) lub niezastosowania się do obowiązujących przepisów.
+
+14.2. DOKUMENTY PODRÓŻY
+
+Pasażer zobowiązany jest przedstawić wszystkie dokumenty wyjazdowe, wjazdowe, zdrowia i inne, wymagane przez przepisy prawne i wymagania właściwych władz państwowych oraz w związku z tymi przepisami i wymaganiami pozwolić przewoźnikowi na zrobienie i zatrzymanie kopii tych dokumentów. Przewoźnik zastrzega sobie, na każdym odcinku, prawo odmowy przewozu pasażera, który nie stosuje się do obowiązujących przepisów prawnych i wymagań, lub którego dokumenty nie wydają się być prawidłowe lub który odmawia na żądanie przewoźnika przedstawienia takich dokumentów.
+
+14.3. ODMOWA WPUSZCZENIA NA TERYTORIUM PAŃSTWA
+
+Pasażer jest zobowiązany zapłacić należność taryfową i inne opłaty związane z podróżą, jeżeli na skutek odmowy wpuszczenia go na terytorium państwa docelowego lub tranzytu władze rządowe zlecą przewoźnikowi odwiezienie go do kraju rozpoczęcia podróży lub gdziekolwiek indziej. Przewoźnik może użyć na pokrycie takiej płatności wszelkich kwot opłaconych za niewykorzystany przewóz lub innych kwot należących do pasażera znajdujących się w posiadaniu przewoźnika. Opłata taryfowa pobrana przez przewoźnika za przewóz do punktu, w którym nastąpiła odmowa wpuszczenia lub deportacja nie podlega zwrotowi przez przewoźnika.
+
+14.4. ODPOWIEDZIALNOŚĆ PASAŻERA ZA NAŁOŻONE GRZYWNY, KARY I SPOWODOWANE WYDATKI
+
+Jeżeli przewoźnik został zobowiązany do złożenia do depozytu lub opłacenia jakiejkolwiek grzywny lub kary, albo do pokrycia jakichkolwiek wydatków z powodu niezastosowania się pasażera do przepisów, wymagań lub poleceń władz państwowych, lub z powodu nieokazania wymaganych dokumentów, pasażer zwróci na żądanie przewoźnika równowartość wniesionego depozytu, zapłaconej kary lub poniesionego wydatku. Przewoźnik może zaliczyć na poczet takiej należności wpłacone mu kwoty za przewóz, który nie został zrealizowany, lub jakiekolwiek kwoty należące do pasażera, a będące w posiadaniu przewoźnika.
+
+14.5. KONTROLA CELNA
+
+Jeżeli jest to wymagane, pasażer powinien uczestniczyć przy kontroli celnej swojego bagażu rejestrowanego lub nierejestrowanego. Przewoźnik nie ponosi odpowiedzialności wobec pasażera za powstałą stratę lub szkodę poniesioną przez niego przy takiej kontroli lub na skutek niepodporządkowania się temu wymogowi.
+
+14.6. KONTROLA BEZPIECZEŃSTWA
+
+Pasażer jest zobowiązany do poddania się kontroli bezpieczeństwa przeprowadzanej przez uprawnionych pracowników lub agentów służb rządowych, lotniskowych lub przewoźnika.
+
+ 
+ARTYKUŁ 15: KOLEJNI PRZEWOŹNICY
+
+15.1 Dla celów związanych ze stosowaniem Konwencji przewóz lotniczy wykonywany przez dwóch lub więcej przewoźników na podstawie jednego biletu lub biletu łącznego traktuje się jako jeden przewóz.
+
+15.2. W +przypadku przewozu podlegającego przepisom Konwencji, o którym mowa w tym Artykule, pasażer może skierować powództwo tylko przeciwko przewoźnikowi, który wykonywał przewóz, podczas którego miał miejsce wypadek lub nastąpiło opóźnienie, chyba że na podstawie wyraźnego postanowienia umowy pierwszy przewoźnik wziął na siebie odpowiedzialność za cały przewóz. W odniesieniu do bagażu i towarów pasażer może wnieść powództwo przeciwko pierwszemu przewoźnikowi, ostatniemu przewoźnikowi lub przeciwko przewoźnikowi, który wykonywał przewóz, podczas którego miało miejsce zniszczenie, zaginięcie, uszkodzenie lub opóźnienie. Przewoźnicy ci odpowiadają solidarnie.
+
+ 
+ARTYKUŁ 16: ODPOWIEDZIALNOŚĆ ZA SZKODY
+
+16.1. PRZEPISY OGÓLNE
+
+16.1.1 Niniejsze Ogólne Warunki Przewozu stanowią podstawę odpowiedzialności przewoźnika. W przypadku, gdy przewóz wykonywany jest przez innego przewoźnika, odpowiedzialność określają przepisy przewoźnika umownego, chyba że postanowiono inaczej lub przepisy prawa stanowią inaczej.
+
+16.1.2. Przewóz lotniczy realizowany na podstawie niniejszych Ogólnych Warunków Przewozu podlega zasadom odpowiedzialności określonym w Rozporządzeniu lub Konwencji, która ogranicza odpowiedzialność przewoźnika. W zakresie, w jakim nie mają zastosowania przepisy Konwencji, odpowiedzialność tę określa prawo obowiązujące w poszczególnych państwach.
+
+16.1.3. Przewoźnik nie ponosi odpowiedzialności wobec osoby dochodzącej odszkodowania lub osoby, od której wywodzi ona swoje prawa, w całości lub w części w zakresie, w jakim niedbalstwo albo inne niewłaściwe działanie lub zaniechanie takiej osoby, spowodowało szkodę lub przyczyniło się do niej. Ciężar dowodu spoczywa w takim przypadku na przewoźniku. Przewoźnik zachowuje również roszczenia zwrotne w stosunku do osób trzecich.
+
+16.1.4. Przewoźnik nie odpowiada za jakąkolwiek szkodę powstałą w związku z działaniem zgodnym z jakimkolwiek prawem, rozporządzeniem, zaleceniem lub wymaganiem władz państwowych lub niezastosowaniem się pasażera do nich.
+
+16.1.5. Odpowiedzialność przewoźnika nie może przekroczyć udowodnionej wartości szkody oraz podlega ograniczeniom wynikającym ze stosownych przepisów prawa, w szczególności Rozporządzenia lub Konwencji.
+
+16.1.6. Wszelkie wyłączenia lub ograniczenia odpowiedzialności przewoźnika będą miały zastosowanie także w stosunku do agentów, pracowników i przedstawicieli przewoźnika oraz każdej osoby, której samolot jest użyty przez przewoźnika, jak również agentów, pracowników i przedstawicieli tej osoby. Łączna kwota, którą można dochodzić od przewoźnika i od takich agentów, pracowników, przedstawicieli i osób nie może przekroczyć kwoty, do której ograniczona jest odpowiedzialność przewoźnika.
+
+16.1.7. Przewoźnik wystawiając bilet lub rejestrując bagaż na linie innego przewoźnika działa jedynie jako agent takiego przewoźnika.
+
+16.1.8. O ile nie zostało to wyraźnie przewidziane, żadne z postanowień zawartych w tym Artykule nie uchyla jakiegokolwiek wyłączenia lub ograniczenia odpowiedzialności przewoźnika lub środków obrony przysługujących przewoźnikowi, a wynikających z Rozporządzenia, Konwencji lub obowiązującego prawa.
+
+16.2. ODPOWIEDZIALNOŚĆ PRZEWOŹNIKA W PRZYPADKU ŚMIERCI LUB USZKODZENIA CIAŁA PASAŻERA
+
+16.2.1. Przewoźnik ponosi odpowiedzialność za szkodę wynikłą w razie śmierci albo uszkodzenia ciała pasażera tylko jeżeli wypadek, który spowodował śmierć albo uszkodzenie ciała, miał miejsce na pokładzie samolotu lub podczas wszelkich czynności związanych z wsiadaniem lub wysiadaniem.
+
+16.2.2. Przewoźnik zobowiązuje się w razie szkód spowodowanych śmiercią lub innym uszkodzeniem ciała pasażera przewożonego przez tego przewoźnika:
+
+    nie wyłączać ani nie ograniczać swojej odpowiedzialności w zakresie, w jakim szkody takie nie przewyższają kwoty 151 880 SDR (lub równowartości w innej walucie) na każdego pasażera; przewoźnik zachowuje jednak uprawnienia wynikające z pkt 16.1.3.,
+    w zakresie, w jakim szkody przewyższają 151 880 SDR na każdego pasażera, przewoźnik nie ponosi odpowiedzialności, jeżeli udowodni, że:
+
+    szkody takiej nie spowodowało niedbalstwo albo inne niewłaściwe działanie lub zaniechanie przewoźnika albo osób za niego działających, albo
+
+    szkoda taka została spowodowana wyłącznie niedbalstwem albo innym niewłaściwym działaniem lub zaniechaniem osoby trzeciej wypłacić zaliczkę na poczet odszkodowania w wysokości wymaganej dla pokrycia najpilniejszych wydatków proporcjonalnie do doznanych trudności, osobie lub osobom, uprawnionym do odszkodowania, nie później niż w terminie 15 dni od dnia ustalenia osoby uprawionej do otrzymania odszkodowania. Zaliczka w razie śmierci pasażera wyniesie nie mniej niż 16 000 SDR (lub równowartość w innej walucie). Wypłata zaliczki nie stanowi uznania odpowiedzialności przez przewoźnika i może być potrącona z odszkodowania. Kwota zaliczki nie podlega zwrotowi, chyba że była wypłacona osobie, która okazała się nieuprawnioną do otrzymania odszkodowania lub w przypadku, o którym mowa w pkt 16.1.3.
+
+16.3. ODPOWIEDZIALNOŚĆ PRZEWOŹNIKA W RAZIE OPÓŹNIENIA W PRZEWOZIE PASAŻERA
+
+Przy przewozach podlegających Konwencji przewoźnik odpowiada za szkody spowodowane opóźnieniem w przewozie pasażera, o ile nie wykaże, że po stronie przewoźnika podjęto środki, jakich można było oczekiwać w celu uniknięcia szkody albo że ich podjęcie nie było możliwe. Odpowiedzialność ta ograniczona jest do kwoty 6 303 SDR na każdego pasażera.
+
+16.4. ODPOWIEDZIALNOŚĆ PRZEWOŹNIKA ZA SZKODY POWSTAŁE PRZY PRZEWOZIE BAGAŻU
+
+16.4.1. Przewoźnik odpowiada za szkodę w bagażu nierejestrowanym będącym pod opieką pasażera, jak również rzeczy osobiste pasażera tylko w przypadku, gdy szkoda powstała z winy przewoźnika.
+
+16.4.2. Odpowiedzialność przewoźnika w razie zniszczenia, uszkodzenia, zaginięcia lub opóźnienia bagażu jest ograniczona i wynosi 1 519 SDR na pasażera , z wyjątkiem przypadku działania lub zaniechania, dokonanych z zamiarem wyrządzenia szkody lub przez nierozwagę i ze świadomością prawdopodobieństwa powstania szkody.
+
+16.4.3 Ograniczenia odpowiedzialności, o których mowa w pkt 16.4.2 powyżej, stanowią co do zasady górne limity odpowiedzialności przewoźnika, co oznacza, że w ramach tych ograniczeń pasażer musi udowodnić w szczególności fakt zaistnienia i wysokość poniesionej szkody. W razie braku udokumentowania wysokości szkody, przewoźnik ma prawo przyznać odszkodowanie kierując się zasadami doświadczenia życiowego.
+
+16.4.4. Limity, o których mowa w pkt 16.4.2. nie będą miały zastosowania w przypadku zgłoszenia przez pasażera deklaracji podwyższonej wartości bagażu, o której mowa w Artykule 9 punkt 9.4.4. Ogólnych Warunków Przewozu. W takim przypadku przewoźnik ponosi odpowiedzialność do wartości zadeklarowanej kwoty, chyba że udowodni, że rzeczywista szkoda poniesiona przez pasażera była niższa.
+
+16.4.5. Przewoźnik nie jest odpowiedzialny w przypadku i w zakresie, w jakim szkoda wynikła z naturalnych właściwości, jakości lub wad własnych bagażu. Każdy pasażer, którego bagaż spowoduje szkodę innej osobie lub szkodę w mieniu innej osoby, względnie przewoźnika, pokryje przewoźnikowi szkody oraz straty i wydatki poniesione przez przewoźnika w ich następstwie.
+
+16.4.6. Przewoźnik nie ponosi odpowiedzialności za szkody w przedmiotach, które nie mogą być przewożone w bagażu, a które określone zostały w Artykule 9.
+
+ 
+ARTYKUŁ 17: TERMINY REKLAMACJI I DOCHODZENIA ROSZCZEŃ
+
+17.1. ZGŁOSZENIE REKLAMACJI
+
+17.1.1 Nie można dochodzić żadnego roszczenia z tytułu uszkodzenia bagażu, jeżeli osoba uprawniona do odbioru bagażu nie złożyła reklamacji natychmiast po stwierdzeniu uszkodzenia i nie później niż w ciągu siedmiu dni od daty otrzymania bagażu, a w przypadku opóźnienia dostarczenia bagażu w ciągu 21 dni od daty przekazania bagażu do dyspozycji pasażera. Reklamacja musi mieć formę pisemną i być wysłana przewoźnikowi przed upływem wyżej wymienionych terminów.
+
+17.1.2 Reklamacje powinny być wniesione bezpośrednio do przewoźnika przez pasażera lub osobę przez niego upoważnioną na podstawie stosownego pełnomocnictwa udostępnionego przewoźnikowi. Reklamacje powinny być wysłane do Działu Reklamacji lub przedłożone za pomocą formularza dostępnego na stronie www.lot.com.
+ARTYKUŁ 18: ZMIANY I UCHYLENIA
+
+Agent, pracownik i przedstawiciel przewoźnika nie mają prawa zmieniać, przekształcać lub uchylać jakiegokolwiek postanowienia niniejszych Ogólnych Warunków Przewozu.
+
+Ostatnia modyfikacja: 28.12.2024.
