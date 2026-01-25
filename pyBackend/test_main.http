@@ -34,3 +34,41 @@ Content-Type: application/json
 {
   "flight_number": "FR99"
 }
+
+###
+
+# Example chat proxy request using vectorizer
+POST http://127.0.0.1:8000/api/openai/chat
+Content-Type: application/json
+
+{
+  "model": "gpt-3.5-turbo",
+  "messages": [
+    {"role": "user", "content": "Jakie są zasady dotyczące wymiarów bagażu w LOT?"}
+  ]
+}
+###
+
+# Example chat proxy request using vectorizer
+POST http://127.0.0.1:8000/api/openai/chat
+Content-Type: application/json
+
+{
+  "model": "gpt-3.5-turbo",
+  "messages": [
+    {"role": "user", "content": "Czy lecąc Lotem lub Lufthansa mogę mieć w bagażu podręcznym pól litrową butelkę wody?"}
+  ]
+}
+
+###
+
+# Example chat proxy request using vectorizer
+POST http://127.0.0.1:8000/api/openai/chat
+Content-Type: application/json
+
+{
+  "model": "gpt-3.5-turbo",
+  "messages": [
+    {"role": "user", "content": "Czy mam możliwość odwołania biletu lotniczego ze zwrotem pieniędzy lecąc EnterAir?"}
+  ]
+}
