@@ -11,11 +11,8 @@ const FlightListItem = ({
   departureDate,
   arrivalTime,
   arrivalDate,
-  stopovers,
-  airline,
-  departureAirport,
-  stopoverAirport,
-  arrivalAirport,
+  airlines,
+  airports,
   price,
 }) => {
   return (
@@ -30,7 +27,7 @@ const FlightListItem = ({
       <div className="w-[200px] flex-1 mx-4 flex flex-col items-center">
         <div className="border-t-2 border-gray-300 w-12"></div>
         <div className="text-xs text-gray-600 font-semibold mt-1">
-          {stopovers}
+          {airports.length - 2} stopover
         </div>
       </div>
 
@@ -43,14 +40,16 @@ const FlightListItem = ({
       {/* Airline & Route Info */}
       <div className="flex-1 mx-6">
         <div className="flex items-center gap-2 mb-2">
-          <div className="text-xs font-semibold text-gray-700">{airline}</div>
+          <div className="text-xs font-semibold text-gray-700">
+            {airlines.map((airline) => airline).join(", ")}
+          </div>
         </div>
         <div className="flex gap-2 text-xs text-gray-600">
-          <span>{departureAirport}</span>
+          <span>{airports[0]}</span>
           <span>•</span>
-          <span>{stopoverAirport}</span>
+          <span>{airports[1]}</span>
           <span>•</span>
-          <span>{arrivalAirport}</span>
+          <span>{airports[2]}</span>
         </div>
       </div>
 
@@ -66,10 +65,9 @@ const FlightListItem = ({
         </span>
       </div>
 
-      {/* Price */}
       <div className="text-right">
         <div className="text-2xl font-bold text-gray-800">{price}</div>
-        <div className="text-xs text-gray-500">cena za osobę</div>
+        <div className="text-xs text-gray-500">price per person</div>
       </div>
     </div>
   );

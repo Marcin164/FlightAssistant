@@ -1,23 +1,48 @@
 import React from "react";
-import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
+import { MapContainer, Marker, TileLayer } from "react-leaflet";
+import L from "leaflet";
 
-const Map = ({ className }) => {
+const Map = ({
+  planeCoordinates,
+  arrivalCoordinates,
+  departureCoordinates,
+}) => {
+  const customIcon = L.icon({
+    iconUrl: "/plane.png",
+    iconSize: [40, 40],
+    iconAnchor: [20, 40],
+  });
+
   return (
     <MapContainer
-      center={[51.505, -0.09]}
-      zoom={13}
-      scrollWheelZoom={false}
+      center={[
+        planeCoordinates?.lat || arrivalCoordinates?.lat,
+        planeCoordinates?.lon || arrivalCoordinates?.lon,
+      ]}
+      zoom={10}
+      scrollWheelZoom={true}
       style={{ height: "100%", width: "100%" }}
     >
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      <Marker position={[51.505, -0.09]}>
-        <Popup>
-          A pretty CSS3 popup. <br /> Easily customizable.
-        </Popup>
-      </Marker>
+      {/* Plane position marker */}
+      <Marker
+        position={[
+          planeCoordinates?.lat || arrivalCoordinates?.lat,
+          planeCoordinates?.lon || arrivalCoordinates?.lon,
+        ]}
+        icon={customIcon}
+      />
+
+      {/* Arrival airport marker */}
+      <Marker position={[arrivalCoordinates?.lat, arrivalCoordinates?.lon]} />
+
+      {/* Departure airport marker */}
+      <Marker
+        position={[departureCoordinates?.lat, departureCoordinates?.lon]}
+      />
     </MapContainer>
   );
 };

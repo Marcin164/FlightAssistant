@@ -67,7 +67,7 @@ const Home = () => {
         </div>
         <Primary
           text="Search"
-          className="mt-4"
+          className="mt-4 p-2"
           onClick={redirectToDetailsWithSearchData}
         />
       </div>

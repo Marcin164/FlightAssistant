@@ -1,29 +1,37 @@
-import React from "react";
-import DetailsTopbar from "../components/Topbars/DetailsTopbar";
+import React, { useEffect, useState } from "react";
+import FlightsTopbar from "../components/Topbars/FlightsTopbar";
 import FlightListItem from "../components/Lists/FlightListItem";
+import { getNearestFlights } from "../services/openai";
+import { useLocation } from "react-router";
 
 const Flights = () => {
+  const location = useLocation();
+  const [flights, setFlights] = useState(null);
+
+  useEffect(() => {
+    getNearestFlights(location.state.from, location.state.to)
+      .then((result) => {
+        setFlights(result);
+      })
+      .catch((error) => {
+        console.error("Error fetching flight details:", error);
+        setFlights(null);
+      });
+  }, [location.state]);
+
   return (
     <div>
-      <DetailsTopbar
-      // flight={flight}
-      // setFlight={setFlight}
-      // findFlightDetails={findFlightDetails}
-      />
-      <div className="flex">
-        <FlightListItem
-          departureTime="15:10"
-          departureDate="10.01.2026"
-          arrivalTime="23:55"
-          arrivalDate="10.01.2026"
-          stopovers="1 przesiadka"
-          airline="LOT, Wizzair"
-          departureAirport="CIA"
-          stopoverAirport="BER"
-          arrivalAirport="WRO"
-          price="832 zł"
-        />
+      <FlightsTopbar from={location.state.from} to={location.state.to} />
+      <div className="flex justify-center mt-4">
+        {flights &&
+          flights?.length > 0 &&
+          flights.map((flight) => <FlightListItem {...flight} />)}
       </div>
+      {!flights && (
+        <div className="text-center text-[#646464] text-[18px]">
+          No flights found.
+        </div>
+      )}
     </div>
   );
 };
