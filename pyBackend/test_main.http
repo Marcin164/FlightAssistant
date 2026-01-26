@@ -67,8 +67,16 @@ POST http://127.0.0.1:8000/api/openai/chat
 Content-Type: application/json
 
 {
-  "model": "gpt-3.5-turbo",
   "messages": [
     {"role": "user", "content": "Czy mam możliwość odwołania biletu lotniczego ze zwrotem pieniędzy lecąc EnterAir?"}
   ]
 }
+
+
+###
+GET http://127.0.0.1:8000/api/openai/airports?airport_name=WRO
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/api/openai/test?text=WRO
+Accept: application/json

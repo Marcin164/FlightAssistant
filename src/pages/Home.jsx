@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+import React, {useState} from "react";
 import Text from "../components/Inputs/Text";
 import Primary from "../components/Buttons/Primary";
-import { useNavigate } from "react-router";
+import {useNavigate} from "react-router";
 
 const Home = () => {
   let navigate = useNavigate();
@@ -12,9 +12,10 @@ const Home = () => {
     arrivalAirport: "",
     departureAirport: "",
   });
+  const [chatInput, setChatInput] = useState("");
 
   const handleFlightDetailsChange = (e) => {
-    const { name, value } = e.target;
+    const {name, value} = e.target;
 
     setFlightDetails({
       ...flightDetails,
@@ -22,8 +23,18 @@ const Home = () => {
     });
   };
 
+  const handleChatInput = (e) => {
+    const {value} = e.target;
+    setChatInput(value);
+  };
+
   const redirectToDetailsWithSearchData = () => {
-    navigate("/details", { state: { ...flightDetails } });
+    console.log(flightDetails);
+    navigate("/details", {state: {...flightDetails}});
+  };
+
+  const redirectToChat = () => {
+    navigate("/chat", {state: {chatInput}});
   };
 
   return (
@@ -70,6 +81,18 @@ const Home = () => {
           className="mt-4 p-2"
           onClick={redirectToDetailsWithSearchData}
         />
+        <div className="my-8">
+          <Text
+            placeholder="Or ask me something about your flight"
+            name="chat"
+            onChange={handleChatInput}
+          />
+          <Primary
+            text="Ask"
+            className="mt-4 p-2"
+            onClick={redirectToChat}
+          />
+        </div>
       </div>
     </div>
   );

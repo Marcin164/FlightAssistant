@@ -131,7 +131,7 @@ class DocumentVectorizer:
         with open(stats_file, 'w', encoding='utf-8') as f:
             f.write(f"Liczba dokumentów: {len(self.documents)}\n")
             f.write(f"Wymiary wektorów: {self.vectors.shape}\n")
-            f.write(f"Liczba cech (features): {self.vectorizer.get_feature_names_out().shape[0]}\n")
+            f.write(f"Liczba cech (features): {self.vectorizer.get_feature_names()}\n")
         print(f"✅ Statystyka zapisana: {stats_file}")
 
         return output_path

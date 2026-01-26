@@ -10,6 +10,8 @@ from pydantic import BaseModel, Field
 from sklearn.metrics.pairwise import cosine_similarity
 from typing import List, Optional, Any, Dict
 
+from main import app
+
 router = APIRouter()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -129,7 +131,7 @@ class Message(BaseModel):
 class ChatRequest(BaseModel):
     model: Optional[str] = "gpt-4o-mini"
     messages: List[Message]
-    temperature: Optional[float] = 0.7
+    temperature: Optional[float] = 0.8
     max_tokens: Optional[int] = 1024
     metadata: Optional[Dict[str, Any]] = None
 
@@ -195,6 +197,7 @@ async def chat_proxy(payload: ChatRequest):
         else:
             messages_list.append({"role": msg.role, "content": msg.content})
 
+    print(messages_list)
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {OPENAI_API_KEY}",
@@ -384,3 +387,42 @@ FORMAT JSON:
         raise HTTPException(status_code=502, detail=f"Failed to parse flight data from AI response: {e}")
     except Exception as e:
         raise HTTPException(status_code=502, detail=f"Error processing flight details: {e}")
+
+
+@router.get("/airports", response_model=Dict[str, Any])
+async def testEndpoint(
+    airport_name: str = Query(..., description="Input text to search airports in")
+):
+    file_path = Path(__file__).parent / "airports.json"
+
+    with open(file_path, "r", encoding="utf-8") as f:
+        airports = json.load(f)
+
+    airport_name_lower = airport_name.lower()
+    airports_to_return = []
+
+    for airport in airports:
+        name = airport.get("name")
+
+        # skip missing or invalid names
+        if not isinstance(name, str):
+            continue
+
+        airport_name = name.lower()
+
+        if airport_name_lower in airport_name:
+            airports_to_return.append(airport)
+
+    return {
+        "airports": airports_to_return
+    }
+
+
+@router.get("/test", response_model=Dict[str, Any])
+async def testEndpoint(
+    text: str = Query(..., description="Input text to search airports in")
+):
+
+    return {
+        "text": text
+    }
