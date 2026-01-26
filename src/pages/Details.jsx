@@ -1,42 +1,80 @@
-import React, { useEffect, useState } from "react";
-import { useLocation, useNavigate } from "react-router";
+import React, {useEffect, useState} from "react";
+import {useLocation, useNavigate} from "react-router";
 import DetailsTopbar from "../components/Topbars/DetailsTopbar";
 import TravelDetails from "../components/Cards/TravelDetails";
 import Map from "../components/Map/Map";
 import Aircraft from "../components/Cards/Aircraft";
 import Delays from "../components/Cards/Delays";
 import Gate from "../components/Cards/Gate";
-import { getFlightDetails } from "../services/openai";
-import { haversineDistance } from "../helpers/distance";
+import {getAirPortInformation, getFlightDetails} from "../services/openai";
+import {haversineDistance} from "../helpers/distance";
 import Primary from "../components/Buttons/Primary";
 
 const Details = () => {
   let navigate = useNavigate();
   const location = useLocation();
   const [flight, setFlight] = useState(null);
+  const [arrivalAirport, setArrivalAirport] = useState(null);
+  const [departureAirport, setDepartureAirport] = useState(null);
 
   useEffect(() => {
-    getFlightDetails(location.state.flightNumber)
-      .then((result) => {
-        setFlight(result);
-      })
-      .catch((error) => {
-        console.error("Error fetching flight details:", error);
-        setFlight(null);
-      });
+    /*      {
+            "flightNumber": "",
+            "arrivalTime": "",
+            "departureTime": "",
+            "arrivalAirport": "",
+            "departureAirport": ""
+          }*/
+    if (!location.state) return;
+    if (location.state.flightNumber) {
+      getFlightDetails(location.state.flightNumber)
+        .then((result) => {
+          setFlight(result);
+        })
+        .catch((error) => {
+          console.error("Error fetching flight details:", error);
+          setFlight(null);
+        });
+    }
+    if (location.state.arrivalAirport && location.state.departureAirport) {
+      getAirPortInformation(
+        location.state.arrivalAirport,
+      )
+        .then((result) => {
+          setArrivalAirport(result);
+        })
+        .catch((error) => {
+          console.error("Error fetching flight details:", error);
+          setArrivalAirport(null);
+        });
+      getAirPortInformation(
+        location.state.departureAirport,
+      )
+        .then((result) => {
+          setDepartureAirport(result);
+        })
+        .catch((error) => {
+          console.error("Error fetching flight details:", error);
+          setDepartureAirport(null);
+        });
+    }
   }, [location.state]);
 
   const redirectToNearestFlightsWithSearchData = () => {
     navigate("/flights", {
-      state: { to: flight?.to || "", from: flight?.from },
+      state: {to: flight?.to || "", from: flight?.from},
     });
   };
 
-  if (!flight) return null;
+  if (!flight) return(
+    <div>
+      Waiting for flight data...
+    </div>
+  );
 
   return (
     <div>
-      <DetailsTopbar flightNumber={location.state.flightNumber} />
+      <DetailsTopbar flightNumber={location.state.flightNumber}/>
       <div className="flex">
         <div className="w-[50%] h-[calc(100vh-50px)] p-4">
           <Map
@@ -55,9 +93,9 @@ const Details = () => {
                   altitude={flight?.location?.altitude?.feet}
                   distance={haversineDistance(
                     flight?.location?.lat ||
-                      flight?.arrival?.airport?.location?.lat,
+                    flight?.arrival?.airport?.location?.lat,
                     flight?.location?.lon ||
-                      flight?.arrival?.airport?.location?.lon,
+                    flight?.arrival?.airport?.location?.lon,
                     flight?.arrival?.airport?.location?.lat,
                     flight?.arrival?.airport?.location?.lon,
                   )}

@@ -163,6 +163,65 @@ export const getFlightDetails = async (flightNumber) => {
   } catch (error) {
     return error;
   }
+
+
+};
+
+export const getAirPortInformation = async (airportName) => {
+  try {
+    console.log("Calling airports API with name:", airportName);
+
+    const result = await axios.get(
+      "http://127.0.0.1:8000/api/openai/airports",
+      {
+        params: {
+          airport_name: airportName, // MUST match FastAPI param name
+        },
+      }
+    );
+
+    console.log(`Airports API response for ${airportName}:`, result.data);
+    return result.data;
+  } catch (error) {
+    console.error("Error calling airports API:", error);
+    throw error;
+  }
+  // returns example response
+  /*airpotrts: [{
+  "iata": "PBN",
+  "lon": "13.75",
+  "iso": "AO",
+  "status": 1,
+  "name": "Porto Amboim Airport",
+  "continent": "AF",
+  "type": "airport",
+  "lat": "-10.7",
+  "size": "medium"
+  }]
+*/
+};
+
+
+export const getChatResponse = async (chatInput) => {
+  try {
+    console.log("Calling chat API with input:", chatInput);
+    const result = await axios({
+      method: "POST",
+      url: `http://127.0.0.1:8000/api/openai/chat`,
+      headers: {
+        "Content-Type": "application/json",
+      },
+      data: {
+        messages: [{"role": "user", "content": chatInput}],
+      },
+    });
+
+    return result.data;
+  } catch (error) {
+    console.error("Error calling chat API:", error);
+    throw error;
+  }
+
 };
 
 export const getNearestFlights = async (from, to) => {

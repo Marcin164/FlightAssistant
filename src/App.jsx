@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import Details from './pages/Details'
 import Flights from './pages/Flights'
 import Airport from './pages/Airport'
+import Chat from "./pages/Chat.jsx";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/details" element={<Details/>}/>
         <Route path="/flights" element={<Flights/>}/>
         <Route path="/airport" element={<Airport/>}/>
+        <Route path="/chat" element={<Chat/>}/>
       </Routes>
     </BrowserRouter>
   )

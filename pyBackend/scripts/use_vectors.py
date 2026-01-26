@@ -6,6 +6,16 @@ import os
 
 from vektorizer import DocumentVectorizer
 
+# W scripts/use_vectors.py - zamiast ładowania, przebuduj wektory
+
+import sys
+sys.path.insert(0, '.')
+
+from vektorizer import DocumentVectorizer
+import shutil
+import os
+from pathlib import Path
+
 
 def example_usage():
     """Przykład użycia zapisanych wektorów w nowym projekcie."""
