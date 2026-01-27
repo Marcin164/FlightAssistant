@@ -1,8 +1,577 @@
 LUFTHANSA
- 
-17
-/
-26
+artykuł 1: Definicje pojęć
+Jeżeli z brzmienia lub z kontekstu nie wynika inaczej, poniższe pojęcia mają następujące znaczenia:
+„My” wraz ze wszelkimi innymi formami pierwszej osoby liczby mnogiej
+odnosi się do Deutsche Lufthansa Aktiengesellschaft
+„Ty” wraz ze wszelkimi innymi formami drugiej osoby liczby pojedynczej
+odnosi się do każdej osoby posiadającej bilet, która ma zostać przewieziona (zob. także definicję
+pojęcia „Pasażer”)
+Bilet dodatkowy
+jest to bilet wystawiony na pasażera w połączeniu z innym biletem; oba bilety łącznie stanowią jedną
+umowę przewozu.
+Code-share
+jest to przewóz lotniczy obsługiwany przez innego przewoźnika niż ten, który jest wymieniony na
+bilecie.
+W przypadku chęci podróży rejsem obsługiwanym przez jednego z naszych partnerów code-share
+zapoznaj się z art. 2.3, który objaśnia wszelkie odstępstwa od niniejszych Warunków przewozu, do
+przestrzegania których możesz być zobowiązany na rejsach code-share.
+Kupon elektroniczny
+jest to elektroniczny odcinek biletu lub dokument o równoważnej wartości zapisany w naszym
+systemie rezerwacji.
+Bilet elektroniczny
+jest to bilet lotniczy zapisany przez nas lub w naszym imieniu w naszym systemie rezerwacji, którego
+dowodem jest wydane pasażerowi „Itinerary Receipt” („Pokwitowania podróży”).
+Odcinek biletu
+jest to część biletu lotniczego z adnotacją „good for passage” („upoważnia do przewozu”), a w
+przypadku biletu elektronicznego jest to kupon elektroniczny upoważniający do podróży między
+konkretnymi podanymi na nim miejscami.
+Pasażer
+jest to każda osoba, która za naszą zgodą jest lub ma być przewożona samolotem na podstawie biletu
+lotniczego.
+Kupon pasażerski lub pokwitowanie dla pasażera
+jest to część biletu lotniczego wystawionego przez nas lub w naszym imieniu, która ma odpowiednie
+adnotacje i pozostaje w posiadaniu pasażera.
+Opłata biletowa
+jest to opłata naliczana za przewóz pasażera na określonej trasie, która, jeżeli jest to prawnie
+wymagane, została zatwierdzona przez odpowiednie organy ds. transportu lotniczego lub podana im
+do wiadomości.
+LUFTHANSA 3/26
+Bilet lotniczy, bilet
+jest to dokument dla przewoźnika wystawiony przez nas lub w naszym imieniu i oznaczony jako „bilet
+lotniczy i pokwitowanie bagażowe” lub jako „bilet elektroniczny”; zawarte w nim warunki umowy
+oraz wskazówki, jak również odcinek biletu i kupon pasażerski są elementami składowymi biletu
+lotniczego.
+Przerwa w podróży (stopover)
+jest to przerwa na życzenie pasażera następująca w miejscu znajdującym się pomiędzy miejscem
+wylotu a miejscem przylotu, na którą uprzednio wyraziliśmy zgodę.
+Bagaż
+są to wszystkie przedmioty, które są przeznaczone do Twojego użytku. Jeżeli nie określono inaczej,
+pojęcie to obejmuje zarówno bagaż rejestrowany, jak i bagaż podręczny pasażera.
+Bagaż rejestrowany
+jest to bagaż, który bierzemy pod swoją opiekę i na który zostało wydane pokwitowanie bagażowe.
+Bagaż podręczny
+jest to Twój bagaż poza bagażem rejestrowanym.
+Przywieszka bagażowa
+jest to dokument wydawany przez nas wyłącznie w celu identyfikacji bagażu rejestrowanego.
+Przywieszkę tę przymocowujemy do sztuki bagażu rejestrowanego, a część służącą identyfikacji
+wręczamy Tobie.
+Pokwitowanie bagażowe
+jest to część biletu lotniczego odnosząca się do przewozu Twojego bagażu rejestrowanego.
+Siła wyższa
+odnosi się do nadzwyczajnych i nieprzewidzianych okoliczności, na które nie mamy wpływu i których
+nie można było uniknąć nawet przy zachowaniu należytej staranności.
+Pokwitowanie podróży
+jest to dokument podróży, który przekazujemy Ci, jeżeli podróżujesz z biletem elektronicznym,
+zawierający Twoje imię i nazwisko oraz informacje o rejsie i wskazówki. Dokument ten pozostaje w
+Twoim posiadaniu i należy mieć go przy sobie podczas całej podróży.
+Przewoźnik
+jest to przewoźnik, który przewozi pasażera lub jego bagaż na podstawie biletu lotniczego i którego
+kod linii lotniczych (Airline Designator Code) znajduje się na bilecie lotniczym lub bilecie
+dodatkowym.
+Termin zamknięcia odprawy
+jest to godzina wyznaczona przez nas lub przez innego odpowiedniego przewoźnika, do której należy
+zakończyć formalności związane z odprawą i uzyskać kartę pokładową.
+LUFTHANSA 4/26
+Szkoda
+obejmuje śmierć, uszkodzenia ciała, szkody związane z opóźnieniem, utratą lub wszelkie inne szkody
+powstałe w wyniku przewozu lub w związku z przewozem lub innymi usługami przewoźnika.
+SDR
+to specjalne prawa ciągnienia (Special Drawing Rights) zgodnie z definicją Międzynarodowego
+Funduszu Walutowego.
+Dni
+są to wszystkie pełne dni kalendarzowe, łącznie z niedzielami i dniami ustawowo wolnymi od pracy;
+w przypadku zawiadomień nie wlicza się dnia wysłania zawiadomienia; w przypadku ustalania okresu
+ważności biletu nie wlicza się dnia wystawienia biletu oraz dnia wylotu.
+Taryfy
+są to opłaty biletowe i dopłaty wraz z warunkami stosowania taryfy (opłaty biletowej), w
+przypadkach wymaganych przepisami prawa zatwierdzone przez właściwe urzędy lub złożone w
+urzędach.
+W przypadku chęci podróży rejsem obsługiwanym przez jednego z naszych partnerów code-share
+zapoznaj się z art. 2.3, który objaśnia wszelkie odstępstwa od niniejszych Warunków przewozu, do
+przestrzegania których możesz być zobowiązany na rejsach code-share.
+Konwencja
+odnosi się do tej z następujących podstaw prawnych, która w danym przypadku ma zastosowanie:
+• Konwencja o ujednoliceniu niektórych prawideł dotyczących międzynarodowego przewozu
+lotniczego podpisana w Warszawie dnia 12 października 1929 r.;
+• Konwencja Warszawska ze zmianami z 28 września 1955 r.;
+• Konwencja Warszawska zmieniona Dodatkowym Protokołem nr 1 z Montrealu (1975);
+• Konwencja Warszawska zmieniona Protokołem Haskim i Dodatkowym Protokołem nr 2 z Montrealu
+(1975);
+• Uzupełniająca Konwencja z Guadalajary (1961);
+• Konwencja o ujednoliceniu niektórych prawideł dotyczących międzynarodowego przewozu
+lotniczego podpisana w Montrealu dnia 28 maja 1999 r. (zwana dalej Konwencją Montrealską).
+Uzgodnione miejsca międzylądowań
+są to w rozumieniu konwencji i niniejszych Warunków przewozu takie miejsca, które są określone na
+bilecie lotniczym lub w rozkładzie lotów przewoźnika jako zaplanowane punkty lądowań w podróży
+pasażera, z wyjątkiem portu wylotu i portu docelowego.
+Warunki umowy
+są to warunki, które zostały w ten sposób określone, umieszczone na bilecie lotniczym lub
+pokwitowaniu podróży i włączają do umowy przewozu niniejsze Warunki przewozu.
+LUFTHANSA 5/26
+Artykuł 2: Obszar zastosowania
+Postanowienia ogólne
+2.1 Niniejsze Warunki przewozu są warunkami przewozu, o których mowa na bilecie lotniczym. Z
+zastrzeżeniem postanowień art. 2.2, 2.4 i 2.5, niniejsze Warunki przewozu dotyczą wyłącznie rejsów,
+w przypadku których na bilecie lotniczym w polu „przewoźnik” („carrier”) wpisany jest nasz kod linii
+lotniczych (Airline Designator Code), czyli „LH”.
+Czarter
+2.2 Przewóz na podstawie umowy czarterowej podlega niniejszym Warunkom przewozu jedynie
+wówczas, gdy zostało to przewidziane w warunkach umowy czarterowej lub na bilecie, poprzez
+odwołanie się do tych warunków lub w inny sposób.
+Code-share
+2.3 Posiadamy porozumienia z innymi liniami lotniczymi – tzw. umowy code-share. Oznacza to, że
+nawet wówczas, gdy w polu „przewoźnik” na bilecie lotniczym widnieje Lufthansa (LH), rejs może być
+obsługiwany przez inne linie lotnicze. W przypadku rejsów code-share Lufthansa poinformuje Cię
+przy rezerwacji, który przewoźnik będzie obsługiwać dany rejs.
+W przypadku usług świadczonych w ramach umów code-share na rejsach obsługiwanych przez
+innego przewoźnika zastosowanie mają niniejsze Warunki przewozu. Jednakże partnerzy code-share
+mogą stosować w odniesieniu do obsługiwanych przez siebie rejsów inne przepisy niż Warunki
+przewozu Lufthansy obowiązujące na rejsach obsługiwanych przez Lufthansę. Z tego powodu takie
+warunki przewozu określone przez partnerów code-share są uwzględnione w niniejszych Warunkach
+przewozu i tym samym stanowią część umowy przewozu.
+Powinieneś zapoznać się z warunkami dotyczącymi rejsów obsługiwanych przez innego przewoźnika
+w ramach umowy code-share oraz sprawdzić między innymi terminy odpraw, wymagania i polityki w
+zakresie przewozu dzieci podróżujących samodzielnie, przewozu zwierząt, odmowy przewozu,
+aparatów tlenowych, nieprawidłowości o charakterze operacyjnym, odszkodowania za odmowę
+wejścia na pokład, limitu bagażu oraz przyjmowania bagażu do przewozu itp.
+Informacje o partnerach code-share Lufthansy znajdują się na naszej stronie internetowej
+lufthansa.com.
+Sprzeczność przepisów
+2.4 W przypadku gdy jakiekolwiek postanowienie zawarte lub powołane w niniejszych Warunkach
+przewozu okazałoby się niezgodne z naszymi taryfami lub obowiązującymi przepisami prawa,
+pierwszeństwo w stosowaniu mają owe taryfy lub przepisy prawa. Jeżeli którekolwiek z postanowień
+niniejszych Warunków przewozu okazałoby się nieważne na mocy właściwych przepisów prawa,
+pozostaje to bez wpływu na ważność pozostałych postanowień.
+Pierwszeństwo Warunków przed innymi regulacjami
+2.5 Jeżeli niniejsze Warunki przewozu nie stanowią inaczej, postanowienia w nich zawarte mają
+pierwszeństwo w stosowaniu przed wszelkimi innymi regulacjami Deutsche Lufthansa AG
+dotyczącymi tego samego przedmiotu.
+
+Artykuł 3: Bilety lotnicze
+Postanowienia ogólne
+3.1
+3.1.1 Usługę przewozu świadczymy wyłącznie na rzecz pasażera wymienionego na bilecie lotniczym i
+wyłącznie za okazaniem ważnego biletu lub, w przypadku rezerwacji elektronicznej, ważnego zapisu
+ETIX w systemie rezerwacji obejmującego odcinek biletu na dany rejs, wszystkie odcinki na kolejne
+rejsy oraz kupon pasażerski. Zastrzegamy sobie prawo do weryfikacji Twojej tożsamości.
+3.1.2 Biletów nie można przekazywać innym osobom.
+3.1.3 Zwroty kosztów za bilety wystawione w ramach obniżonych taryf mogą podlegać
+ograniczeniom. Szczegółowe warunki w tym zakresie możesz znaleźć w warunkach poszczególnych
+taryf. Prosimy o wybranie opłaty biletowej najlepiej odpowiadającej Twoim wymaganiom. Zalecamy
+również wykupienie ubezpieczenia od kosztów rezygnacji z podróży.
+3.1.4 Jeżeli posiadasz bilet w obniżonej taryfie, o którym mowa w art. 3.1.3 powyżej, i nie możesz
+odbyć podróży z powodu siły wyższej, dokonamy zwrotu tej części opłaty biletowej, która zasadniczo
+nie podlega zwrotom, pod warunkiem, że bezzwłocznie powiadomisz nas o wystąpieniu siły wyższej i
+przedstawisz dowód jej zadziałania oraz że bilet nie został jeszcze wykorzystany. Mamy prawo do
+potrącenia opłaty administracyjnej, która zostanie ogłoszona w stosownym czasie.
+3.1.5 Bilet lotniczy jest i pozostaje w każdym czasie własnością wystawiającego go przewoźnika. Bilet
+lotniczy jest dowodem zawarcia umowy przewozu między nami a pasażerem. Warunki umowy
+umieszczone na bilecie są streszczeniem postanowień niniejszych Warunków przewozu.
+Bilet lotniczy jako podstawa wykonania przewozu
+3.1.6 Jeżeli nie podróżujesz na podstawie biletu elektronicznego, jesteś uprawniony do podróży
+wyłącznie za okazaniem ważnego biletu wystawionego na Twoje imię i nazwisko, który zawiera
+odcinek biletu na dany rejs, wszystkie pozostałe niewykorzystane odcinki biletu oraz kupon
+pasażerski. Nie jesteś uprawniony do podróży, jeżeli okazany przez Ciebie bilet lotniczy jest znacznie
+uszkodzony lub został zmieniony po wystawieniu, chyba że zmiana ta została dokonana przez nas. W
+przypadku podróży na podstawie biletu elektronicznego jesteś uprawniony do przewozu wyłącznie
+wówczas, gdy możesz w odpowiedni sposób wykazać swoją tożsamość jako pasażer oraz gdy na
+Twoje imię i nazwisko został wystawiony ważny bilet elektroniczny.
+Utrata biletu lub karty klienta
+3.1.7 (a) W przypadku utraty lub znacznego uszkodzenia biletu lotniczego lub jego części, a także w
+przypadku nieprzedłożenia go wraz z zawartymi w nim odcinkami biletu i wszystkimi
+niewykorzystanymi odcinkami biletu, możemy na Twoje życzenie ponownie wystawić bilet lotniczy w
+całości lub w części, o ile jesteś w stanie wykazać, że bilet lotniczy na dany rejs został prawidłowo
+wystawiony. W związku z powyższym możemy wymagać uiszczenia stosownej opłaty manipulacyjnej.
+Nie będziesz zobowiązany do ponownego uiszczenia opłaty biletowej. Możemy ponadto zażądać,
+abyś zobowiązał się w wymaganej przez nas formie, że w przypadku wykorzystania utraconego biletu
+lub odcinka biletu przez osobę trzecią na potrzeby przewozu, lub uzyskania zwrotu kosztów,
+pokryjesz koszt biletu zastępczego w wysokości odpowiadającej stopniowi wykorzystania. Nie
+będziemy żądać od Ciebie zwrotu kosztów ewentualnych strat wynikających z naszego zaniedbania.
+LUFTHANSA 7/26
+3.1.7 (b) Jeżeli utrata biletu lotniczego nie zostanie udowodniona lub odmówisz podpisania
+zobowiązania, wówczas linie lotnicze wystawiające bilet zastępczy mogą żądać uiszczenia zapłaty do
+wysokości całej opłaty biletowej. Zostanie ona zwrócona, jeżeli linie pierwotnie wystawiające bilet
+lotniczy uznają, że utracony lub uszkodzony bilet nie został wykorzystany przed upływem jego
+ważności. Jeżeli odnajdziesz pierwotnie wystawiony bilet lotniczy i przedłożysz go liniom, które go
+wystawiły, przed upływem jego ważności, koszty biletu zastępczego zostaną niezwłocznie zwrócone.
+Obowiązek dochowania należytej staranności
+3.1.8 Bilety lotnicze są kosztowne. Twoim obowiązkiem jest ich staranne przechowywanie i podjęcie
+koniecznych działań w celu zapobieżenia ich utracie lub kradzieży.
+Okres ważności
+3.2
+3.2.1 O ile na bilecie lotniczym, w niniejszych Warunkach lub w stosownych taryfach (które
+odpowiednio do informacji na bilecie mogą ograniczyć okres jego ważności) nie określono inaczej,
+okres ważności biletu lotniczego wynosi:
+3.2.1.1 (a) jeden rok, licząc od daty wystawienia, lub
+3.2.1.1 (b) jeden rok, licząc od daty rozpoczęcia podróży, o ile nastąpiła ona w ciągu roku od daty
+wystawienia biletu lotniczego.
+3.2.2 W przypadku gdy w okresie ważności biletu lotniczego nie będziesz mógł rozpocząć podróży w
+związku z niemożnością potwierdzenia przez nas rezerwacji, wówczas okres ważności tego biletu
+przedłuża się do pierwszej daty, w której możemy potwierdzić rezerwację. W przeciwnym razie jesteś
+uprawniony do zwrotu kosztów zgodnie z art. 10.
+Przedłużenie okresu ważności
+3.2.3 Jeżeli po rozpoczęciu podróży nie będziesz w stanie jej kontynuować w okresie ważności biletu
+lotniczego ze względu na chorobę, możemy przedłużyć okres ważności Twojego biletu do czasu, gdy
+stan zdrowia pozwoli Ci na kontynuację podróży. Przedłużenie następuje do dnia, w którym zgodnie z
+zaświadczeniem lekarskim będziesz już mógł podróżować, lub też – po stwierdzeniu przez nas
+możliwości podjęcia przez Ciebie dalszej podróży – do dnia, w którym możemy Ci zaoferować
+najbliższy rejs na tej trasie w zarezerwowanej klasie podróży. Choroba musi zostać potwierdzona
+zaświadczeniem lekarskim. Jeżeli niewykorzystana część trasy podanej na bilecie lotniczym obejmuje
+co najmniej jedno międzylądowanie, wówczas termin ważności może być przedłużony do trzech
+miesięcy od dnia określonego w zaświadczeniu lekarskim jako dzień, w którym można ponownie
+rozpocząć podróż. W takiej sytuacji przedłużymy odpowiednio termin ważności biletów lotniczych
+towarzyszącym Ci członkom najbliższej rodziny.
+3.2.4 Jeżeli w trakcie podróży lotniczej nastąpi śmierć pasażera, wówczas możliwe jest zniesienie
+obowiązku zachowania minimalnej długości pobytu osób towarzyszących lub przedłużenie terminu
+ważności biletów lotniczych osób towarzyszących. W przypadku śmierci członka najbliższej rodziny
+pasażera po tym, jak rozpoczął on podróż, możliwe jest przedłużenie terminu ważności biletów
+lotniczych towarzyszących mu członków najbliższej rodziny. Przedłużenie następuje pod warunkiem
+przedstawienia aktu zgonu, a jego maksymalny wymiar może wynieść do 45 (czterdziestu pięciu) dni
+od daty śmierci.
+LUFTHANSA 8/26
+Zmiany na życzenie pasażera
+3.3
+3.3.3 Jeżeli wybrałeś taryfę, która wymaga zrealizowana poszczególnych etapów podróży zgodnie z
+kolejnością podaną na bilecie, pamiętaj, że jeżeli nie wykorzystasz przewozu na poszczególnych
+odcinkach lub nie odbędziesz podróży w kolejności podanej bilecie lotniczym, nie zmieniając przy tym
+pozostałych danych podróży, dokonamy przeliczenia opłaty biletowej zgodnie ze zmienioną trasą.
+Opłata biletowa zostanie wówczas wyliczona dla faktycznie przebytej trasy w danej grupie cenowej
+według stawek z dnia dokonania rezerwacji. Tak wyliczona opłata biletowa może okazać się wyższa
+niż pierwotna cena biletu.
+Jeżeli grupa cenowa, którą oryginalnie wykupiłeś, jest niedostępna dla zmienionej przez Ciebie trasy
+w dniu rezerwacji, wówczas opłata biletowa na zmienionej trasie zostanie przeliczona według
+najtańszej dostępnej poprzedniej grupy cenowej.
+Jeżeli w dniu rezerwacji opłata wyliczona dla zmienionej trasy byłaby wyższa, wówczas uwzględnimy
+cenę już zapłaconą i pobierzemy jedynie należną różnicę. Pamiętaj, że wykonanie usługi przewozu
+może zależeć od uregulowania tej różnicy.
+O ile warunki taryfy, w której wykupiłeś bilet, zezwalają na zwrot i nie wykorzystałeś jeszcze żadnego
+z odcinków podróży, możesz dochodzić zwrotu ceny biletu stosownie do warunków taryfy. W takim
+przypadku nie zachowujesz prawa do przewozu.
+Postanowienia niniejszego art. 3.3.3 nie dotyczą przewozu pasażerów, których miejscem
+zamieszkania jest Austria.
+3.3.4 W odniesieniu do przewozu pasażerów, których miejscem zamieszkania jest Austria,
+zastosowanie mają następujące postanowienia:
+Jeżeli wybrałeś taryfę, która wymaga zrealizowana poszczególnych etapów podróży zgodnie z
+kolejnością podaną na bilecie, pamiętaj, że jeżeli nie wykorzystasz przewozu na poszczególnych
+odcinkach lub nie odbędziesz podróży w kolejności podanej bilecie lotniczym, nie zmieniając przy tym
+pozostałych danych podróży, dokonamy przeliczenia opłaty biletowej zgodnie ze zmienioną trasą. Nie
+będzie miało to zastosowania w przypadku, gdy niemożność wykorzystania przewozu na wszystkich
+odcinkach trasy lub w kolejności podanej na bilecie wynika z okoliczności spowodowanych siłą
+wyższą, chorobą lub innymi nieprzewidzianymi zdarzeniami oraz gdy poinformujesz nas o tych
+okolicznościach bezzwłocznie po ich rozpoznaniu oraz przedstawisz dowód ich zaistnienia. W
+przypadku przeliczenia opłata zostanie wyliczona dla faktycznie przebytej trasy w danej grupie
+cenowej według stawek z dnia dokonania rezerwacji. Tak wyliczona opłata biletowa może okazać się
+wyższa lub niższa niż pierwotna cena biletu.
+Jeżeli grupa cenowa, którą oryginalnie wykupiłeś, jest niedostępna dla zmienionej przez Ciebie trasy
+w dniu rezerwacji, wówczas opłata biletowa na zmienionej trasie zostanie przeliczona według
+najtańszej dostępnej poprzedniej grupy cenowej.
+Jeżeli w dniu rezerwacji opłata wyliczona dla zmienionej trasy byłaby wyższa, wówczas uwzględnimy
+cenę już zapłaconą i pobierzemy jedynie należną różnicę. Pamiętaj, że wykonanie usługi przewozu
+może zależeć od uregulowania tej różnicy.
+LUFTHANSA 9/26
+O ile warunki taryfy, w której wykupiłeś bilet, zezwalają na zwrot i nie wykorzystałeś jeszcze żadnego
+z odcinków podróży, możesz dochodzić zwrotu ceny biletu stosownie do warunków taryfy. W takim
+przypadku nie zachowujesz prawa do przewozu.
+Nazwa i adres przewoźnika
+3.4 Nasza nazwa może być skrócona na bilecie lotniczym do formy kodu linii lotniczych (Airline
+Designator Code) lub do innej formy. Jako nasz adres traktuje się także lotnisko wylotu wskazane na
+bilecie lotniczym po przeciwnej stronie od pierwszego skrótu naszej nazwy.
+Artykuł 4: Opłaty biletowe, podatki, opłaty i dopłaty
+Taryfy
+4.1 Opłata biletowa obejmuje koszt przewozu pasażera z lotniska wylotu do lotniska przylotu. Jest
+ona obliczana według taryfy obowiązującej w dniu rezerwacji biletu dla danej trasy i dat rejsów
+podanych na bilecie. Opłata biletowa nie zawiera opłaty za przewóz komunikacją naziemną między
+lotniskami ani między lotniskami a centrami miast. Może natomiast zawierać dopłaty nałożone przez
+przewoźnika.
+Podatki, opłaty i dopłaty
+4.2 Oprócz opłaty biletowej musisz dodatkowo uregulować wszelkie podatki, opłaty i dopłaty
+nałożone na pasażera lub świadczone usługi przez urzędy państwowe, samorządowe i inne organy
+lub przez przedsiębiorstwo zarządzające portem lotniczym. Przy zakupie biletu lotniczego zostaniesz
+poinformowany o podatkach, opłatach i dopłatach, które nie są zawarte w opłacie biletowej. Z reguły
+są one dodatkowo wyszczególnione na bilecie.
+Waluta
+4.3 O ile przepisy prawa właściwego nie stanowią inaczej, opłaty biletowe mogą być uiszczane w
+każdej akceptowanej przez nas walucie. W przypadku dokonywania płatności w kraju rozpoczęcia
+podróży w innej walucie niż ta, w której wyrażona jest opłata biletowa, przy przeliczeniu należy
+stosować wskazany przez nas bankowy kurs zakupu walut obowiązujący w dniu wystawienia biletu.
+Artykuł 5: Rezerwacje
+Warunki dokonania rezerwacji
+5.1
+5.1.1 Każdy odcinek biletu będzie akceptowany jako uprawniający do przewozu w podanej na nim
+klasie podróży jedynie w dniu i rejsem, dla którego została dokonana rezerwacja miejsca. W
+przypadku biletów lotniczych bez rezerwacji miejsca rezerwacji będzie można dokonać w późniejszym
+czasie, o ile na danym rejsie są jeszcze dostępne wolne miejsca.
+5.1.2 Twoje rezerwacje są odnotowywane przez nas lub upoważnionych przez nas agentów. Na
+Twoje żądanie prześlemy Ci pisemne potwierdzenie rezerwacj
+
+5.1.3 W przypadku niektórych taryf mają zastosowanie postanowienia ograniczające prawo do
+dokonywania zmian lub anulowania rezerwacji. Szczegółowe warunki w tym zakresie możesz znaleźć
+w warunkach poszczególnych taryf.
+Ograniczenia czasowe przy wystawianiu biletów
+5.2 Jeżeli nie uiściłeś opłaty biletowej w terminie uzgodnionym z nami lub biurem podróży
+wystawiającym bilet, możemy anulować rezerwację rejsu.
+Dane osobowe
+5.3.1 Przyjmujesz do wiadomości, że podajesz nam swoje dane osobowe w celu dokonania rezerwacji
+rejsu, zakupu biletu lotniczego, uzyskania usług dodatkowych, rozwijania i świadczenia usług,
+ułatwienia procedury imigracyjnej i wjazdowej oraz udostępnienia danych związanych z organizacją
+Twojej podróży agencjom rządowym. W tych celach upoważniasz nas do przekazywania tych
+informacji do naszych własnych biur, biura podróży, które wystawiło bilet, agencji rządowych, innych
+linii lotniczych lub wszelkich innych dostawców ww. usług.
+5.3.2 Sprawdzamy wszystkie transakcje płatnicze w celu przeciwdziałania oszustwom i innym formom
+nadużyć. Korzystamy w tym celu ze źródeł wewnętrznych i zewnętrznych. Akceptujesz, że w tych
+celach weryfikujemy także wyraźnie identyfikowalne cechy techniczne. W przypadku wykrycia
+szczególnych okoliczności zastrzegamy sobie prawo do wysłania informacji (w tym danych
+osobowych) do innych spółek należących do Lufthansa Group (w tym Austrian Airlines, Eurowings,
+Germanwings, Brussels Airlines, SWISS Global Air Lines AG, Edelweiss Air AG, SWISS International Air
+Lines AG oraz Miles and More GmbH). Podmioty te również przetwarzają te informacje dla własnych
+potrzeb.
+Wcześniejsza rezerwacja miejsc
+5.4
+5.4.1 Na niektórych rejsach Lufthansy oferujemy możliwość wcześniejszej rezerwacji miejsca. W
+ramach tej usługi możesz wybrać – pod warunkiem dostępności – konkretną kategorię miejsca
+(miejsce przy przejściu, przy oknie lub miejsce środkowe, miejsce z większą przestrzenią na nogi,
+miejsce w preferowanej strefie). Wcześniejszy wybór miejsca (za opłatą) nie jest obowiązkowy.
+Jeśli rezerwujesz miejsce na rejs obsługiwany przez inne linie lotnicze niż linie, w których masz
+zarezerwowany lot, czyli w ramach tzw. umowy code-sharing, skutkuje to zawarciem osobnej umowy
+między Tobą jako pasażerem a liniami lotniczymi obsługującymi dany rejs. Ta umowa jest prawnie
+niezależna od istniejącej rezerwacji rejsu. Wcześniejsza rezerwacja miejsc na rejsach code-sharing
+obsługiwanych przez Lufthansę jest możliwa online tylko dla rejsów międzykontynentalnych. Jeżeli
+chcesz skorzystać z wcześniejszej rezerwacji miejsca na rejsie kontynentalnym obsługiwanym przez
+Lufthansę pod numerem rejsu innych linii lotniczych, skontaktuj się z Centrum obsługi Lufthansy.
+5.4.2 Zawsze możesz też poprosić o przyznanie konkretnego miejsca przy odprawie. Jeżeli korzystasz
+z usługi „automatycznej odprawy”, pod koniec procedury możesz zmienić przypisane Ci miejsce na
+inne dostępne miejsce. W miarę możliwości postaramy się spełnić Twoją prośbę, jednakże nie
+możemy zagwarantować dostępności konkretnych miejsc.
+5.4.3 Zastrzegamy sobie prawo do przydzielenia lub zmiany przydzielonego miejsca w każdej chwili,
+także po wejściu na pokład samolotu. Może to być konieczne z przyczyn operacyjnych lub ze
+względów bezpieczeństwa. W przypadku gdy uiścisz opłatę za wcześniejszą rezerwację miejsca, a rejs
+LUFTHANSA 11/26
+zostanie anulowany lub będziemy zmuszeni przydzielić Ci miejsce innej kategorii ze względów
+bezpieczeństwa lub ze względów operacyjnych, zwrócimy Ci koszt rezerwacji miejsca. Koszt
+rezerwacji miejsca nie podlega zwrotowi w przypadku, gdy z własnej woli zrezygnujesz z rejsu,
+dokonasz zmiany rezerwacji do innej klasy podróży lub złożysz nieprawdziwe oświadczenie o
+spełnieniu wymagań pozwalających na zajęcie miejsca przy wyjściu ewakuacyjnym.
+Zwrotne potwierdzenie rezerwacji
+5.5
+5.5.1 Zasadniczo nie wymagamy zwrotnego potwierdzania rezerwacji rejsów Lufthansy. Jeżeli inni
+przewoźnicy żądają od pasażera zwrotnego potwierdzenia rezerwacji na dalszy rejsu lub na rejs
+powrotny, to brak takiego zwrotnego potwierdzenia rezerwacji upoważnia przewoźnika do
+anulowania rezerwacji na dalszy rejs lub na rejs powrotny.
+5.5.2 Powinieneś zasięgnąć informacji na temat wymagań w zakresie zwrotnego potwierdzenia
+rezerwacji u innych przewoźników, z których usług korzystasz w trakcie swojej podróży. Jeżeli
+zwrotne potwierdzenie rezerwacji jest wymagane, musisz go dokonać u przewoźnika, którego kod
+linii lotniczych (Airline Designator Code) podany jest na daną trasę w polu „przewoźnik” („carrier”)
+biletu lotniczego.
+Anulacja rezerwacji dalszego rejsu lub rejsu powrotnego przez przewoźnika, opłata manipulacyjna
+za niewykorzystane miejsce
+5.6 Pasażer może zostać obciążony opłatą manipulacyjną, jeżeli:
+5.6.1 do chwili wylotu nie stawi się na lotnisku lub w innym miejscu wylotu we wskazanym przez nas
+czasie (a w przypadku niewskazania przez nas określonego czasu – w czasie wystarczającym do
+dopełnienia formalności urzędowych i procedur związanych z odprawą) i w wyniku tego nie zajmie
+zarezerwowanego dla niego miejsca, lub
+5.6.2 stawi się bez wymaganych dokumentów i w związku z tym nie będzie mógł rozpocząć podróży i
+zająć zarezerwowanego dla niego miejsca, lub
+5.6.3 odwoła swoją rezerwację miejsca po terminie określonym przez przewoźnika. Opłata
+manipulacyjna nie zostanie naliczona, jeżeli odwołasz rezerwację z powodu opóźnienia lub anulacji
+rejsu, pominięcia planowanego międzylądowania lub braku możliwości zapewnienia miejsca na
+danym rejsie, lub też z któregoś z powyższych powodów nie dotrzesz na czas przed wylotem.
+Artykuł 6: Odprawa i wchodzenie na pokład
+6.1 Godziny zamknięcia odprawy różnią się w zależności od lotniska. Zalecamy ich sprawdzenie i
+stosowanie się do nich. Podróż będzie przebiegać płynniej, jeżeli zgłosisz się do odprawy
+odpowiednio wcześniej przed jej zamknięciem. W przypadku niezastosowania się do podanych
+godzin zamknięcia odprawy będziemy mieli prawo do anulowania Twojej rezerwacji. Informację o
+godzinie zamknięcia odprawy na pierwszy obsługiwany przez nas odcinek trasy można uzyskać od nas
+lub w biurze podróży, które wystawiło bilet lotniczy. Godziny zamknięcia odprawy dla naszych rejsów
+możesz sprawdzić na naszej stronie internetowej lub w biurze podróży, które wystawiło bilet lotniczy.
+O ile nie podano inaczej, pasażerowie muszą zgłosić się do odprawy przynajmniej na 45 minut przed
+planowaną godziną wylotu.
+LUFTHANSA 12/26
+6.2 Musisz stawić się przy bramce (gate) najpóźniej o godzinie podanej przez nas przy odprawie.
+6.3 Jeżeli nie stawisz się przy bramce (gate) punktualnie, mamy prawo anulować Twoją rezerwację.
+6.4 Nie ponosimy odpowiedzialności za szkody i wydatki poniesione wyłącznie wskutek
+nieprzestrzegania przez Ciebie niniejszych warunków lub warunków naszych partnerów (na mocy
+umowy code-share, porozumienia międzyliniowego lub umowy czarterowej).
+Artykuł 7: Ograniczenia i odmowa przewozu
+Prawo odmowy przewozu
+7.1 Według naszego uznania mamy prawo odmówić przewozu lub dalszego przewozu, jeżeli
+poinformowaliśmy Cię pisemnie przed dokonaniem rezerwacji, że od chwili naszego pisemnego
+powiadomienia nie będziemy już przewozić Cię żadnymi obsługiwanymi przez nas rejsami. Może to
+nastąpić, jeżeli podczas wcześniejszej podróży naszym samolotem naruszyłeś zasady zachowania
+określone w art. 7 i 11, w następstwie czego przewożenie Cię stało się niedopuszczalne. Ponadto
+możemy odmówić realizacji przewozu lub realizacji dalszego przewozu bądź anulować Twoją
+rezerwację, jeżeli:
+7.1.1 takie działanie jest konieczne ze względów bezpieczeństwa lub względów porządkowych bądź w
+celu zapobieżenia naruszeniu prawa, przepisów lub nakazów państwa, z którego następuje wylot, do
+którego następuje przylot bądź przez które lub nad którym następuje przelot, lub
+7.1.2 przewóz Twojej osoby może mieć znacząco negatywny wpływ na bezpieczeństwo, zdrowie lub
+samopoczucie innych pasażerów, lub
+7.1.3 Twoje zachowanie, stan psychiczny lub fizyczny, w tym również skutki używania alkoholu lub
+narkotyków, narażają Ciebie, innych pasażerów lub członków załogi na niebezpieczeństwo, lub
+7.1.4 podczas wcześniejszego rejsu Twoje zachowanie znacząco naruszało nasze zasady zachowania i
+mamy podstawy, aby przypuszczać, że takie zachowanie może się powtórzyć, lub
+7.1.5 odmówiłeś poddania się kontroli bezpieczeństwa, lub
+7.1.6 nie uregulowałeś obowiązującej opłaty biletowej, podatków, innych opłat lub dopłat, lub
+7.1.7 nie posiadasz ważnego dokumentu podróży, chcesz wjechać do kraju, przez który możesz
+jedynie przejeżdżać tranzytem lub do którego nie posiadasz wizy, zniszczyłeś podczas lotu swoje
+dokumenty podróży lub odmawiasz przekazania załodze za pokwitowaniem wyżej wymienionych
+dokumentów na jej polecenie, lub
+7.1.8 okażesz bilet, który został pozyskany niezgodnie z prawem bądź z naruszeniem warunków
+uczestnictwa w programie Miles & More lub który został zgłoszony jako utracony lub ukradziony,
+który jest sfałszowany, lub też gdy nie jesteś w stanie wykazać, że jesteś osobą, na którą bilet został
+wystawiony, lub
+LUFTHANSA 13/26
+7.1.9 odmówisz uiszczenia należnej różnicy w cenie (dopłaty) w wysokości wyliczonej zgodnie z art.
+3.3.1 lub okażesz bilet, który nie został wystawiony przez nas lub biuro podróży uprawnione do
+wystawiania biletów, lub też jeżeli bilet ten jest w znacznym stopniu uszkodzony, lub
+7.1.10 nie przestrzegasz naszych przepisów w zakresie bezpieczeństwa, lub
+7.1.11 podczas wsiadania do samolotu lub na pokładzie nie przestrzegasz obowiązującego we
+wszystkich naszych samolotach zakazu palenia tytoniu i używania urządzeń elektronicznych.
+W przypadku gdy Lufthansa lub któryś z naszych partnerów (na mocy umowy code-share,
+porozumienia międzyliniowego lub umowy czarterowej) odmówi przewozu Twojej osoby z powodów
+wymienionych powyżej, nie będziesz mógł dochodzić prawa do przewozu ani odszkodowania.
+Szczególna opieka
+7.2
+7.2.1 Jeżeli jesteś osobą niepełnosprawną, chorą lub wymagającą szczególnej opieki, musisz
+wcześniej nas o tym poinformować. Pasażerom, którzy przy zakupie biletów zgłosili nam konieczność
+zapewnienia im szczególnej opieki i których przewóz zaakceptowaliśmy, nie odmówimy przewozu ze
+względu na ich niepełnosprawność lub konieczność zapewnienia szczególnej opieki.
+Przewóz dzieci
+7.2.2 Dzieci poniżej piątego roku życia mogą podróżować wyłącznie w towarzystwie dorosłego w
+wieku co najmniej 18 lat. Przewóz dzieci podróżujących samodzielnie w wieku od 5 do 12 lat wymaga
+uprzedniego telefonicznego zgłoszenia. Podróż wiąże się z koniecznością uiszczenia stosownej
+ogłoszonej ceny oraz przestrzegania ogłoszonych warunków, z którymi można zapoznać się w naszych
+biurach sprzedaży lub biurze podróży, które wystawiło bilet.
+7.2.3 Dzieci mogą także podróżować w swoich własnych fotelikach podróżnych zamocowanych do
+fotela pasażerskiego w samolocie; w tym celu dla dziecka w wieku poniżej 2 lat należy wykupić
+dodatkowe miejsce. Dziecięcy fotelik podróżny musi być przypięty pasem bezpieczeństwa do fotela
+pasażerskiego przez cały czas trwania rejsu. Musi być on także dostosowany do wykorzystania na
+pokładzie samolotu. W przeciwnym razie mamy prawo odmówić zabrania fotelika na pokład. Nie
+ponosimy żadnej odpowiedzialności za skutki niewłaściwego zamocowania fotelika dziecięcego do
+fotela pasażerskiego, za niezdatność fotelika do użycia ani za skutki niestosowania się do poleceń.
+Więcej informacji na temat podróżowania z dziećmi, a w szczególności korzystania z dziecięcych
+fotelików podróżnych na pokładzie samolotu, można znaleźć na stronie internetowej lufthansa.com
+w menu > Przygotowania do podróży > Podróżowanie z dziećmi.
+Odszkodowanie z tytułu odmowy przewozu
+7.3 Jeżeli z któregokolwiek z wymienionych powyżej powodów odmówimy przewozu Twojej osoby
+lub anulujemy Twoją rezerwację, Twoje prawa są ograniczone do dochodzenia zwrotu opłaty
+biletowej za niewykorzystane odcinki biletu zgodnie z art. 10.3.
+
+Artykuł 8: Bagaż i nadbagaż
+Bezpłatny bagaż i nadbagaż
+8.1 Na pokład samolotu możesz zabrać ograniczoną liczbę sztuk bagażu, która jest uzależniona od
+wybranej taryfy. Informacja o limicie bezpłatnego bagażu widnieje na Twoim bilecie lotniczym;
+można ją również uzyskać u nas lub w biurze podróży, które wystawiło bilet. Przewóz bagażu powyżej
+limitu bezpłatnego bagażu oraz bagażu specjalnego wiąże się z dodatkową opłatą. W przypadku
+rejsów z kodem linii lotniczych Lufthansa obsługiwanych przez partnerskie linie lotnicze (rejsy code-
+share) limit bezpłatnego bagażu jest także podany na bilecie lotniczym, jednak opłaty za nadbagaż
+zostaną nałożone przez pierwszego przewoźnika obsługującego rejs zgodnie z jego własnymi
+przepisami. Informację o stawkach można uzyskać u nas lub w biurze podróży, które wystawiło bilet
+lotniczy.
+Waga pojedynczej sztuki bagażu nie może przekroczyć 32 kg.
+Bagaż nieznanych osób
+8.2 Prosimy nie przewozić bagażu otrzymanego od nieznanych osób – ani jako bagażu podręcznego,
+ani rejestrowanego.
+Przedmioty, których nie można przewozić jako bagaż
+8.3
+8.3.1 W bagażu nie wolno przewozić:
+8.3.1.1 przedmiotów mogących stwarzać zagrożenie dla samolotu lub osób bądź mienia na pokładzie,
+takich jak wymienione w Przepisach dotyczących przedmiotów niebezpiecznych ICAO lub IATA,
+których treść jest dostępna u nas lub w biurze podróży, które wystawiło bilet lotniczy; obejmuje to w
+szczególności: materiały wybuchowe, sprężone gazy, substancje żrące, utleniające, radioaktywne,
+materiały wytwarzające pole magnetyczne, materiały łatwopalne i trujące;
+8.3.1.2 przedmiotów, których przewozu zabraniają przepisy kraju wylotu, przylotu lub przelotu;
+8.3.1.3 przedmiotów, które są niebezpieczne lub, ze względu na wagę, wielkość, kształt lub rodzaj czy
+też nietrwałość, kruchość lub delikatność, nie nadają się do przewozu; więcej informacji na temat
+konkretnych przypadków można uzyskać bezpośrednio u nas lub w biurze podróży, które wystawiło
+bilet lotniczy;
+8.3.1.4 baterie i akumulatory litowe luzem (stosowane powszechnie w urządzeniach elektronicznych,
+takich jak laptopy, telefony komórkowe, zegarki i aparaty fotograficzne) mogą być przewożone
+wyłącznie w bagażu podręcznym. Można przewozić maksymalnie dwie baterie lub akumulatory
+litowe o pojemności nieprzekraczającej 160 Wh jako zapasowe baterie lub akumulatory do urządzeń
+elektronicznych powszechnego użytku. Przewóz baterii lub akumulatorów o pojemności między 100 a
+160 Wh luzem wymaga wcześniejszej zgody linii lotniczych. Więcej informacji na temat przewozu
+baterii i akumulatorów można znaleźć w Międzynarodowych przepisach dotyczących przedmiotów
+niebezpiecznych Organizacji Międzynarodowego Lotnictwa Cywilnego (International Civil Aviation
+Organization, ICAO), z którymi można się zapoznać na stronie internetowej ICAO w sekcji „Dangerous
+Goods” (Przedmioty niebezpieczne) lub na stronie internetowej Luftfahrt-Bundesamt LBA
+(niemieckiego Federalnego Urzędu ds. Lotnictwa).
+LUFTHANSA 15/26
+8.3.2 Jeżeli przewozisz przy sobie lub w bagażu: broń wszelkiego rodzaju, w tym w szczególności (a)
+broń boczną lub urządzenia rozpylające, które mogą być wykorzystane do ataku lub obrony, (b)
+amunicję lub materiały wybuchowe, (c) przedmioty, które ze względu na swój zewnętrzny kształt lub
+oznaczenie przypominają broń, amunicję lub materiały wybuchowe, masz obowiązek powiadomić
+nas o tym przed rozpoczęciem podróży. Przewóz takich przedmiotów jest dopuszczalny jedynie
+wówczas, gdy są one transportowane zgodnie z przepisami dotyczącymi przewozu przedmiotów
+niebezpiecznych jako cargo lub bagaż rejestrowany. Zdanie drugie nie dotyczy funkcjonariuszy policji,
+którzy są zobowiązani do noszenia broni w czasie pełnienia obowiązków służbowych. Na czas lotu są
+oni zobowiązani do przekazania broni kapitanowi.
+8.3.3 Broń wszelkiego rodzaju, w szczególności broń boczna i urządzenia rozpylające. Według
+naszego uznania możemy zezwolić na przewóz broni sportowej. Musi być ona rozładowana oraz
+zaopatrzona w zamknięty spust bezpieczeństwa. Przewóz amunicji podlega przepisom ICAO i IATA, o
+których mowa w art. 8.3.1.1.
+8.3.4 Nie ponosimy odpowiedzialności za jakiekolwiek przedmioty wymienione w art. 8.3.1 i 8.3.2,
+jeżeli mimo zakazu ich przewozu świadomie umieściłeś je w swoim bagażu rejestrowanym.
+Prawo odmowy przewozu
+8.4
+8.4.1 Zgodnie z postanowieniami art. 8.3.2 i 8.3.3 odmawiamy przewozu jako bagażu każdego
+przedmiotu wymienionego w art. 8.3; jeżeli w trakcie przewozu zostanie stwierdzona obecność tych
+przedmiotów, możemy odmówić dalszego przewozu.
+8.4.2 Możemy odmówić przewozu bagażu, jeżeli nie nadaje się on do przewozu ze względu na
+wielkość, kształt, wagę, zawartość lub rodzaj, a także ze względów bezpieczeństwa oraz ze względu
+na dobre samopoczucie innych pasażerów. Informacje na temat przedmiotów nienadających się do
+przewozu dostępne są na życzenie.
+8.4.3 Możemy odmówić przewozu bagażu, jeżeli nie jest on odpowiednio zapakowany w walizki lub
+podobne pojemniki, tak aby można było zapewnić bezpieczny transport przy zachowaniu zwykłych
+standardów ostrożności przy obchodzeniu się z bagażem.
+Kontrola pasażerów i bagażu
+8.5 Ze względów bezpieczeństwa możemy zażądać kontroli lub prześwietlenia Twojej osoby oraz
+Twojego bagażu, jak również prześwietlenia promieniami rentgenowskimi Twojego bagażu. Jeżeli nie
+wyrazisz zgody na kontrolę Twojej osoby lub Twojego bagażu w celu stwierdzenia obecności
+przedmiotów nieprzyjmowanych do przewozu w myśl art. 8.3 lub nie przedstawisz przedmiotów do
+kontroli, możemy odmówić przewozu Twojej osoby i Twojego bagażu; w takim przypadku Twoje
+roszczenia odszkodowawcze ograniczać się będą do zwrotu opłaty biletowej zgodnie z art. 10.3.
+niniejszych Warunków przewozu.
+Bagaż rejestrowany
+8.6 Po przekazaniu nam przez Ciebie bagażu rejestrowanego przejmiemy go pod swoją opiekę.
+Odnotujemy to na Twoim bilecie, który będzie stanowił pokwitowanie bagażu. Jeżeli oprócz kwitu
+LUFTHANSA 16/26
+bagażowego wystawimy również przywieszkę bagażową, będzie ona służyć wyłącznie identyfikacji
+bagażu.
+8.6.2 Bagaż rejestrowany musi być oznaczony Twoim imieniem i nazwiskiem lub umożliwiać
+identyfikację w inny sposób.
+8.6.3 Bagaż rejestrowany będzie przewożony tym samym samolotem, co Ty, chyba że ze względów
+bezpieczeństwa lub ze względów operacyjnych zdecydujemy, że będzie on przewożony innym rejsem
+(w miarę możliwości następnym). Jeżeli Twój bagaż rejestrowany będzie przewożony następnym
+rejsem, wówczas dostarczymy go do Twojego miejsca pobytu, chyba że Twoja obecność jest
+konieczna w trakcie kontroli celnej bagażu. Powyższe postanowienia nie mają wpływu na prawa
+wynikające z art. 14 („Odpowiedzialność za szkody”).
+Bagaż podręczny
+8.7
+8.7.1 Możemy określić liczbę sztuk, maksymalną wagę i maksymalne wymiary bagażu podręcznego.
+W każdym wypadku bagaż podręczny musi mieścić się pod fotelem przed Tobą lub w schowku na
+bagaż. Jeżeli Twój bagaż podręczny nie spełnia tych warunków lub wymogów bezpieczeństwa,
+wówczas musi on być przewożony jako bagaż rejestrowany.
+8.7.2 Przedmioty, które nie nadają się do przewozu w luku bagażowym, np. delikatne instrumenty
+muzyczne, oraz przedmioty, które nie spełniają wymagań określonych w art. 8.7.1, będą
+przyjmowane do przewozu w kabinie pasażerskiej tylko wówczas, gdy zostaniemy wcześniej
+poinformowani i zaakceptujemy ich przewóz. Za tę dodatkową usługę możemy naliczyć dopłatę.
+Wydanie bagażu rejestrowanego
+8.8
+8.8.1 Masz obowiązek odebrać swój bagaż natychmiast, gdy jest on gotowy do odbioru na lotnisku
+docelowym lub w miejscu przerwy w podróży (stopover).
+8.8.2 Bagaż rejestrowany wydajemy wyłącznie posiadaczowi pokwitowania bagażowego i wyłącznie
+po zapłacie należnych nam kwot.
+8.8.3 Jeżeli osoba odbierająca bagaż nie może okazać pokwitowania bagażowego i nie może
+zidentyfikować bagażu na podstawie przywieszki bagażowej, o ile taka została wystawiona, wówczas
+wydajemy bagaż jedynie pod takim warunkiem, że dana osoba w zadowalający nas sposób udowodni
+nam swoje prawo do odbioru bagażu.
+Zwierzęta i psy asystujące
+8.9
+8.9.1 Przewożenie psów, kotów i innych zwierząt domowych odbywa się wyłącznie za naszą zgodą i
+na następujących warunkach: zwierzęta muszą być przewożone w odpowiednich klatkach i posiadać
+ważne świadectwa zdrowia i szczepień, pozwolenia na wwóz i inne dokumenty wjazdowe lub
+tranzytowe wymagane przez poszczególne kraje. Zastrzegamy sobie prawo do określenia sposobu
+transportu oraz do ograniczenia liczby zwierząt dopuszczonych do przewozu jednym rejsem.
 
 8.9.2 Waga zwierząt, w tym także ich klatek i pożywienia, nie jest objęta limitem bezp
 łatnego bagażu

@@ -14,9 +14,11 @@ _vector_db = DocumentVectorizer()
 router = APIRouter()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+XRAPID_KEY = os.getenv("XRAPID_KEY")
 if not OPENAI_API_KEY:
     # In production you should fail fast or ensure env is configured via secrets manager
     OPENAI_API_KEY = ""
+    XRAPID_KEY = ""
 
 # Vector Database Configuration
 VECTORS_DB_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "scripts", "vectors_db")
@@ -149,87 +151,138 @@ def load_vector_db():
 
 @router.post("/chat", response_model=ChatResponse)
 async def chat_proxy(payload: ChatRequest):
-    """Proxy endpoint to OpenAI Chat Completions with vector database context."""
     if not OPENAI_API_KEY:
         raise HTTPException(status_code=500, detail="OpenAI API key not configured")
 
-    def _get_chunk_text(index: int) -> str:
-        return _vector_db.documents[index]
+    user_message = payload.messages[-1].content
 
-    # Prepare context from vector database
-    context = ""
-    user_message_text = payload.messages[-1].content if payload.messages else ""
+    #ROUTE INTENT
+    intent = await classify_user_intent(user_message)
 
-    if user_message_text:
-        # Search for relevant documents
-        search_results = _search_vectors(user_message_text, top_k=5)
+    context_blocks = []
 
-        if search_results:
+    #VECTOR SEARCH (if needed)
+    if intent["needs_vector_search"]:
+        results = _search_vectors(user_message, top_k=5)
+        if results:
             context = "\n### KNOWLEDGE BASE CHUNKS ###\n"
-
-            for result in search_results:
-                chunk_text = _get_chunk_text(result["index"])
+            for r in results:
+                chunk = _vector_db.documents[r["index"]]
                 context += (
-                    f"\n[Source: {result['filename']} | "
-                    f"chunk {result['chunk_id']} | "
-                    f"score={result['similarity_score']:.2f}]\n"
-                    f"{chunk_text}\n"
+                    f"\n[Source: {r['filename']} | chunk {r['chunk_id']}]\n"
+                    f"{chunk}\n"
                 )
+            context_blocks.append(context)
 
-    messages_list = []
-
-    if context:
-        messages_list.append({
-            "role": "system",
-            "content": (
-                "You are an assistant answering using the provided documents.\n"
-                "If the answer is not found anwser that there is no mention of it in your db but accordingly to your common knowledge... and pass infromation or hint that you have.\n\n"
-                "If the answer is found in the provided document say that ,,accordingly to rules of [here place formated name of aviation company that text comes from] ...place your awnser here .\n\n"
-                f"{context}"
+    #FLIGHT LOOKUP (if needed)
+    if intent["needs_flight_lookup"] and intent["flight_number"]:
+        flight_data = await get_flight_details_external(intent["flight_number"])
+        if flight_data:
+            context_blocks.append(
+                "\n### FLIGHT INFORMATION ###\n"
+                + json.dumps(flight_data, indent=2, ensure_ascii=False)
             )
-        })
 
-    for msg in payload.messages:
-        messages_list.append({
-            "role": msg.role,
-            "content": msg.content
-        })
+    messages = [{
+        "role": "system",
+        "content": (
+            "You are an aviation assistant.\n\n"
+            "Rules:\n"
+            "- If document context is present, base the answer on it and cite airline rules.\n"
+            "- If not found in documents, say so and use general aviation knowledge.\n"
+            "- If flight data is present, explain it clearly to the user.\n\n"
+            + "\n".join(context_blocks)
+        )
+    }]
 
-    print(messages_list)
+    messages.extend([msg.dict() for msg in payload.messages])
+
+    #FINAL CALL (better model)
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {OPENAI_API_KEY}",
         "Content-Type": "application/json",
     }
+
     body = {
-        "model": payload.model,
-        "messages": messages_list,
+        "model": "gpt-4o",  # stronger reasoning model
+        "messages": messages,
         "temperature": payload.temperature,
         "max_tokens": payload.max_tokens,
     }
 
     async with httpx.AsyncClient(timeout=30.0) as client:
-        try:
-            resp = await client.post(url, json=body, headers=headers)
-        except httpx.RequestError as e:
-            raise HTTPException(status_code=502, detail=f"Error contacting OpenAI: {e}")
-
-    if resp.status_code != 200:
-        # bubble up a useful error message
-        try:
-            detail = resp.json()
-        except Exception:
-            detail = resp.text
-        raise HTTPException(status_code=502, detail={"openai_error": detail})
+        resp = await client.post(url, json=body, headers=headers)
 
     data = resp.json()
-    # Extract the assistant reply (first choice)
-    try:
-        reply = data["choices"][0]["message"]["content"]
-    except Exception:
-        reply = ""
+    reply = data["choices"][0]["message"]["content"]
 
     return ChatResponse(reply=reply, raw=data)
+
+
+
+async def classify_user_intent(text: str) -> Dict[str, Any]:
+    """Use a fast LLM to decide what tools are needed."""
+    url = "https://api.openai.com/v1/chat/completions"
+
+    system_prompt = """
+You are a routing assistant.
+Analyze the user message and decide:
+
+1. Does it require searching aviation regulations documents?
+2. Does it contain a flight number (e.g. LO123, FR4567)?
+
+Respond ONLY with valid JSON in this format:
+{
+  "needs_vector_search": boolean,
+  "needs_flight_lookup": boolean,
+  "flight_number": string | null
+}
+"""
+
+    body = {
+        "model": "gpt-4o-mini",
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": text}
+        ],
+        "temperature": 0.0,
+        "max_tokens": 200
+    }
+
+    headers = {
+        "Authorization": f"Bearer {OPENAI_API_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    async with httpx.AsyncClient(timeout=20.0) as client:
+        resp = await client.post(url, json=body, headers=headers)
+
+    data = resp.json()
+    return json.loads(data["choices"][0]["message"]["content"])
+
+async def get_flight_details_external(flight_number: str) -> Dict[str, Any]:
+    url = f"https://aerodatabox.p.rapidapi.com/flights/number/{flight_number}"
+
+    headers = {
+        "x-rapidapi-key": XRAPID_KEY,
+        "x-rapidapi-host": "aerodatabox.p.rapidapi.com",
+    }
+
+    params = {
+        "withAircraftImage": False,
+        "withLocation": True,
+        "withFlightPlan": False,
+    }
+
+    async with httpx.AsyncClient(timeout=20.0) as client:
+        resp = await client.get(url, headers=headers, params=params)
+
+    if resp.status_code != 200:
+        return {}
+
+    data = resp.json()
+    return data[0] if data else {}
 
 
 @router.options("/flight-details")
