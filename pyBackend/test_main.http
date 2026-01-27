@@ -72,6 +72,29 @@ Content-Type: application/json
   ]
 }
 
+###
+
+# Example chat proxy request using flight detector
+POST http://127.0.0.1:8000/api/openai/chat
+Content-Type: application/json
+
+{
+  "messages": [
+    {"role": "user", "content": "Co mozesz mi powiedziec o locie BT927?"}
+  ]
+}
+###
+
+# Example chat proxy request using flight detector
+POST http://127.0.0.1:8000/api/openai/chat
+Content-Type: application/json
+
+{
+  "messages": [
+    {"role": "user", "content": "Planuje podroz samolotem z numrem lotu LH28. Czy moja walizka wykupiona jako bagaż podręczny może ważyć ponad 10kg?"}
+  ]
+}
+
 
 ###
 GET http://127.0.0.1:8000/api/openai/airports?airport_name=WRO
