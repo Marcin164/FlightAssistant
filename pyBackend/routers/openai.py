@@ -1,16 +1,15 @@
 import httpx
 import json
-import numpy as np
 import os
 import pandas as pd
 import pickle
 from fastapi import APIRouter, HTTPException, Query
 from pathlib import Path
 from pydantic import BaseModel, Field
-from sklearn.metrics.pairwise import cosine_similarity
+from scripts.vektorizer import DocumentVectorizer
 from typing import List, Optional, Any, Dict
 
-from main import app
+_vector_db = DocumentVectorizer()
 
 router = APIRouter()
 
@@ -57,48 +56,9 @@ def _load_vector_db():
         print(f"❌ Error loading vector database: {e}")
 
 
-def _search_vectors(query: str, top_k: int = 3) -> List[Dict[str, Any]]:
-    """
-    Search similar documents in vector database.
-
-    Args:
-        query: Search query text
-        top_k: Number of results to return
-
-    Returns:
-        List of similar documents with scores
-    """
-    global _vectorizer, _vectors, _metadata
-
-    if _vectorizer is None or _vectors is None:
-        _load_vector_db()
-
-    if _vectorizer is None or _vectors is None:
-        return []
-
-    try:
-        # Transform query to vector
-        query_vector = _vectorizer.transform([query])
-
-        # Calculate cosine similarity
-        similarities = cosine_similarity(query_vector, _vectors)[0]
-
-        # Get top k indices
-        top_indices = np.argsort(similarities)[::-1][:top_k]
-
-        # Create results
-        results = []
-        for idx in top_indices:
-            results.append({
-                'filename': _metadata[idx]['filename'],
-                'similarity_score': float(similarities[idx]),
-                'index': int(idx)
-            })
-
-        return results
-    except Exception as e:
-        print(f"❌ Error searching vectors: {e}")
-        return []
+def _search_vectors(query: str, top_k: int = 5):
+    df = _vector_db.search(query=query, top_k=top_k)
+    return df.to_dict("records")
 
 
 def _get_document_content(doc_index: int) -> Optional[str]:
@@ -161,11 +121,40 @@ class FlightDetailsResponse(BaseModel):
         populate_by_name = True
 
 
+@router.on_event("startup")
+def load_vector_db():
+    _vector_db.load("./scripts/vectors_db")
+
+    documents = []
+
+    for meta in _vector_db.metadata:
+        try:
+            with open(meta["path"], "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                chunks = _vector_db.chunk_text(content)
+
+                # safety check
+                if meta["chunk_id"] < len(chunks):
+                    documents.append(chunks[meta["chunk_id"]])
+                else:
+                    documents.append("")
+        except Exception as e:
+            print(f"❌ Failed loading chunk: {e}")
+            documents.append("")
+
+    _vector_db.documents = documents
+
+    print(f"✅ Vector DB ready: {len(_vector_db.documents)} chunks loaded")
+
+
 @router.post("/chat", response_model=ChatResponse)
 async def chat_proxy(payload: ChatRequest):
     """Proxy endpoint to OpenAI Chat Completions with vector database context."""
     if not OPENAI_API_KEY:
         raise HTTPException(status_code=500, detail="OpenAI API key not configured")
+
+    def _get_chunk_text(index: int) -> str:
+        return _vector_db.documents[index]
 
     # Prepare context from vector database
     context = ""
@@ -176,26 +165,35 @@ async def chat_proxy(payload: ChatRequest):
         search_results = _search_vectors(user_message_text, top_k=5)
 
         if search_results:
-            context = "\n=== RELEVANT KNOWLEDGE BASE DOCUMENTS ===\n"
-            for result in search_results:
-                context += f"\nDocument: {result['filename']} (Similarity: {result['similarity_score']:.2f})\n"
-                context += "---\n"
-                # Optionally load and include document content (commented for now to keep context size manageable)
-                # doc_content = _get_document_content(result['index'])
-                # if doc_content:
-                #     context += doc_content[:500] + "...\n"  # Include first 500 chars
-                context += "\n"
+            context = "\n### KNOWLEDGE BASE CHUNKS ###\n"
 
-    # Build messages with enriched context
+            for result in search_results:
+                chunk_text = _get_chunk_text(result["index"])
+                context += (
+                    f"\n[Source: {result['filename']} | "
+                    f"chunk {result['chunk_id']} | "
+                    f"score={result['similarity_score']:.2f}]\n"
+                    f"{chunk_text}\n"
+                )
+
     messages_list = []
-    for i, msg in enumerate(payload.messages):
-        if i == len(payload.messages) - 1:  # Last message (user's current message)
-            enriched_content = msg.content
-            if context:
-                enriched_content = f"{msg.content}\n\n{context}"
-            messages_list.append({"role": msg.role, "content": enriched_content})
-        else:
-            messages_list.append({"role": msg.role, "content": msg.content})
+
+    if context:
+        messages_list.append({
+            "role": "system",
+            "content": (
+                "You are an assistant answering using the provided documents.\n"
+                "If the answer is not found anwser that there is no mention of it in your db but accordingly to your common knowledge... and pass infromation or hint that you have.\n\n"
+                "If the answer is found in the provided document say that ,,accordingly to rules of [here place formated name of aviation company that text comes from] ...place your awnser here .\n\n"
+                f"{context}"
+            )
+        })
+
+    for msg in payload.messages:
+        messages_list.append({
+            "role": msg.role,
+            "content": msg.content
+        })
 
     print(messages_list)
     url = "https://api.openai.com/v1/chat/completions"
@@ -391,7 +389,7 @@ FORMAT JSON:
 
 @router.get("/airports", response_model=Dict[str, Any])
 async def testEndpoint(
-    airport_name: str = Query(..., description="Input text to search airports in")
+        airport_name: str = Query(..., description="Input text to search airports in")
 ):
     file_path = Path(__file__).parent / "airports.json"
 
@@ -420,9 +418,8 @@ async def testEndpoint(
 
 @router.get("/test", response_model=Dict[str, Any])
 async def testEndpoint(
-    text: str = Query(..., description="Input text to search airports in")
+        text: str = Query(..., description="Input text to search airports in")
 ):
-
     return {
         "text": text
     }

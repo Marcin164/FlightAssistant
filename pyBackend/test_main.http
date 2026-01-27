@@ -68,7 +68,7 @@ Content-Type: application/json
 
 {
   "messages": [
-    {"role": "user", "content": "Czy mam możliwość odwołania biletu lotniczego ze zwrotem pieniędzy lecąc EnterAir?"}
+    {"role": "user", "content": "Czy mogę przewozic pistolet lub broń lecąc samolotem jesli nie jest to bron myśliwska?"}
   ]
 }
 
