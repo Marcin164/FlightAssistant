@@ -17,7 +17,7 @@ class DocumentVectorizer:
     Klasa do wektoryzacji dokumentów i przechowywania/przeszukiwania wektorów.
     """
 
-    def __init__(self, max_features=5000, ngram_range=(1, 2)):
+    def __init__(self, max_features=8000, ngram_range=(1, 2)):
         """
         Inicjalizacja wektoryzatora.
 
@@ -30,7 +30,8 @@ class DocumentVectorizer:
             ngram_range=ngram_range,
             min_df=1,
             max_df=0.95,
-            stop_words='english'
+            stop_words=None,
+            lowercase=True
         )
         self.vectors = None
         self.documents = None
@@ -62,16 +63,23 @@ class DocumentVectorizer:
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read().strip()
-                    if content:
-                        documents.append(content)
+                    if not content:
+                        continue
+
+                    chunks = self.chunk_text(content)
+
+                    for idx, chunk in enumerate(chunks):
+                        documents.append(chunk)
                         metadata.append({
                             'filename': file_path.name,
                             'path': str(file_path),
-                            'size': os.path.getsize(file_path)
+                            'size': os.path.getsize(file_path),
+                            'chunk_id': idx,
+                            'chunk_count': len(chunks)
                         })
-                        print(f"✅ Wczytano: {file_path.name}")
-                    else:
-                        print(f"⚠️  Pominięto pusty plik: {file_path.name}")
+
+                    print(f"✅ {file_path.name}: {len(chunks)} chunk(s)")
+
             except Exception as e:
                 print(f"❌ Błąd przy wczytywaniu {file_path.name}: {e}")
 
@@ -188,18 +196,24 @@ class DocumentVectorizer:
         # Oblicz cosine similarity
         similarities = cosine_similarity(query_vector, self.vectors)[0]
 
-        # Posortuj wyniki
-        top_indices = np.argsort(similarities)[::-1][:top_k]
+        top_indices = np.argsort(similarities)[::-1]
 
-        # Stwórz DataFrame z wynikami
         results = []
         for idx in top_indices:
+            score = similarities[idx]
+            if score < 0.1:  # similarity threshold
+                continue
+
             results.append({
                 'index': int(idx),
                 'filename': self.metadata[idx]['filename'],
-                'similarity_score': float(similarities[idx]),
+                'chunk_id': self.metadata[idx]['chunk_id'],
+                'similarity_score': float(score),
                 'size': self.metadata[idx]['size']
             })
+
+            if len(results) >= top_k:
+                break
 
         df_results = pd.DataFrame(results)
         return df_results
@@ -207,6 +221,20 @@ class DocumentVectorizer:
     def get_feature_names(self):
         """Zwróć nazwy cech (słowa)."""
         return self.vectorizer.get_feature_names_out()
+
+    def chunk_text(self, text, chunk_size=100, overlap=50):
+        """
+        Split text into overlapping chunks.
+        """
+        words = text.split()
+        chunks = []
+
+        for i in range(0, len(words), chunk_size - overlap):
+            chunk = " ".join(words[i:i + chunk_size])
+            if len(chunk.strip()) > 0:
+                chunks.append(chunk)
+
+        return chunks
 
 
 # ============================================================================
@@ -246,18 +274,28 @@ def main():
     print("KROK 4: PRZYKŁAD WYSZUKIWANIA")
     print("=" * 60)
 
-    # Szukaj podobnych dokumentów do pierwszego dokumentu
+    # Szukaj podobnych dokumentów do pierwszego chunku
     results = vectorizer.search(query=0, top_k=3)
     print("\n📊 Wyniki wyszukiwania (podobne do dokumentu #0):")
     print(results.to_string(index=False))
 
-    # Szukaj na podstawie tekstu zapytania
-    query_text = "passenger baggage policy rules"
-    results = vectorizer.search(query=query_text, top_k=3)
-    print(f"\n📊 Wyniki wyszukiwania dla zapytania: '{query_text}'")
+    # Szukaj na podstawie POLSKIEGO zapytania
+    query_text = (
+        "Nie wolno przewozić w bagażu pasażerskim broni palnej i amunicji "
+        "z wyjątkiem broni sportowej i myśliwskiej"
+    )
+
+    results = vectorizer.search(query=query_text, top_k=7)
+    print(f"\n📊 Wyniki wyszukiwania dla zapytania:\n'{query_text}'")
     print(results.to_string(index=False))
 
-    print("\n✨ Gotowe! Wektory zostały zapisane i mogą być ponownie użyte.")
+    if not results.empty:
+        print("\n🔎 Dopasowane fragmenty:\n")
+        for _, row in results.iterrows():
+            idx = row["index"]
+            print(f"[{row['filename']} | chunk {row['chunk_id']} | score={row['similarity_score']:.2f}]")
+            print(vectorizer.documents[idx][:500])
+            print("-" * 80)
 
 
 if __name__ == "__main__":
