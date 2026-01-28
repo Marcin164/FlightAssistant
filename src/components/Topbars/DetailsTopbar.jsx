@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import Text from "../Inputs/Text";
 import Primary from "../Buttons/Primary";
 import { useNavigate } from "react-router";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faHome } from "@fortawesome/free-solid-svg-icons";
 
 const DetailsTopbar = ({ flightNumber }) => {
   let navigate = useNavigate();
@@ -32,6 +34,11 @@ const DetailsTopbar = ({ flightNumber }) => {
     <div className="h-[50px] flex items-center px-4">
       <div className="mr-4">
         <div className="text-[#3F77D8] text-[22px] font-bold">
+          <FontAwesomeIcon icon={faHome} onClick={navigate(-1)} />
+        </div>
+      </div>
+      <div className="mr-4">
+        <div className="text-[#3F77D8] text-[22px] font-bold">
           {flightNumber}
         </div>
       </div>
@@ -42,30 +49,7 @@ const DetailsTopbar = ({ flightNumber }) => {
           className="w-[200px]"
         />
       </div>
-      <div className="mx-4 text-[24px] text-[#646464] font-bold">OR</div>
-      <div className=" flex justify-around">
-        <Text
-          placeholder="Departure airport"
-          onChange={handleFlightDetailsChange}
-          className="w-[200px] mr-2"
-        />
-        <Text
-          placeholder="Arrival airport"
-          onChange={handleFlightDetailsChange}
-          className="w-[200px] mr-2"
-        />
-        <Text
-          placeholder="Departure date"
-          onChange={handleFlightDetailsChange}
-          className="w-[200px] mr-2"
-        />
-        <Text
-          placeholder="Arrival date"
-          onChange={handleFlightDetailsChange}
-          className="w-[200px] mr-2"
-        />
-        <Primary text="Search" onClick={findFlightDetails} />
-      </div>
+      <Primary text="Search" onClick={findFlightDetails} />
     </div>
   );
 };

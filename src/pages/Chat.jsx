@@ -1,6 +1,6 @@
-import React, {useEffect, useState} from 'react'
-import {useLocation} from "react-router";
-import {getChatResponse} from "../services/openai.js";
+import React, { useEffect, useState } from "react";
+import { useLocation } from "react-router";
+import { getChatResponse } from "../services/openai.js";
 import Text from "../components/Inputs/Text.jsx";
 import Primary from "../components/Buttons/Primary.jsx";
 
@@ -27,7 +27,7 @@ const Chat = () => {
   }, [location.state?.chatInput]);
 
   const handleChatInput = (e) => {
-    const {value} = e.target;
+    const { value } = e.target;
     setChatInput(value);
   };
 
@@ -43,9 +43,8 @@ const Chat = () => {
       .catch((error) => {
         console.error("Error fetching chat response:", error);
         setResponse(null);
-      }).finally(
-      setLoading(false)
-    );
+      })
+      .finally(setLoading(false));
   };
 
   return (
@@ -53,34 +52,39 @@ const Chat = () => {
       <h1>Chat Assistant</h1>
       {loading && <p>Loading...</p>}
       {response && (
-        <div className="mt-4 p-4 border rounded ">
-          {typeof response === 'string' ? (
-            <p>{response}</p>
+        <div className="mt-6 rounded-2xl border border-gray-200 bg-white shadow-sm">
+          {typeof response === "string" ? (
+            <p className="p-4 text-gray-700 leading-relaxed">{response}</p>
           ) : (
-            <div>
-              <div>Asystent: {JSON.stringify(response.reply, null, 2)}</div>
-              <div>
-                <div className="my-8">
-                  <Text
-                    placeholder="Ask another question"
-                    name="chat"
-                    onChange={handleChatInput}
-                  />
-                  <Primary
-                    text="Ask"
-                    className="mt-4 p-2"
-                    onClick={askQuestion}
-                  />
-                </div>
+            <div className="p-4 space-y-6">
+              <div className="rounded-xl bg-gray-50 p-4">
+                <p className="mb-2 text-sm font-semibold text-gray-500">
+                  Assistant
+                </p>
+                <pre className="whitespace-pre-wrap text-sm text-gray-800">
+                  {JSON.stringify(response.reply, null, 2)}
+                </pre>
               </div>
-            </div>)}
+              <div className="space-y-3 border-t pt-4">
+                <Text
+                  placeholder="Ask another question"
+                  name="chat"
+                  onChange={handleChatInput}
+                />
+
+                <Primary
+                  text="Ask"
+                  onClick={askQuestion}
+                  className="w-full rounded-xl bg-blue-600 px-4 py-2 text-white transition hover:bg-blue-700"
+                />
+              </div>
+            </div>
+          )}
         </div>
       )}
-      {!loading && !response && (
-        <p>No response available. Please try again.</p>
-      )}
+      {!loading && !response && <p>No response available. Please try again.</p>}
     </div>
-  )
-}
+  );
+};
 
-export default Chat
+export default Chat;

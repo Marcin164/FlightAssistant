@@ -1,13 +1,13 @@
-import React, {useEffect, useState} from "react";
-import {useLocation, useNavigate} from "react-router";
+import React, { useEffect, useState } from "react";
+import { useLocation, useNavigate } from "react-router";
 import DetailsTopbar from "../components/Topbars/DetailsTopbar";
 import TravelDetails from "../components/Cards/TravelDetails";
 import Map from "../components/Map/Map";
 import Aircraft from "../components/Cards/Aircraft";
 import Delays from "../components/Cards/Delays";
 import Gate from "../components/Cards/Gate";
-import {getAirPortInformation, getFlightDetails} from "../services/openai";
-import {haversineDistance} from "../helpers/distance";
+import { getAirPortInformation, getFlightDetails } from "../services/openai";
+import { haversineDistance } from "../helpers/distance";
 import Primary from "../components/Buttons/Primary";
 
 const Details = () => {
@@ -18,13 +18,6 @@ const Details = () => {
   const [departureAirport, setDepartureAirport] = useState(null);
 
   useEffect(() => {
-    /*      {
-            "flightNumber": "",
-            "arrivalTime": "",
-            "departureTime": "",
-            "arrivalAirport": "",
-            "departureAirport": ""
-          }*/
     if (!location.state) return;
     if (location.state.flightNumber) {
       getFlightDetails(location.state.flightNumber)
@@ -37,9 +30,7 @@ const Details = () => {
         });
     }
     if (location.state.arrivalAirport && location.state.departureAirport) {
-      getAirPortInformation(
-        location.state.arrivalAirport,
-      )
+      getAirPortInformation(location.state.arrivalAirport)
         .then((result) => {
           setArrivalAirport(result);
         })
@@ -47,9 +38,7 @@ const Details = () => {
           console.error("Error fetching flight details:", error);
           setArrivalAirport(null);
         });
-      getAirPortInformation(
-        location.state.departureAirport,
-      )
+      getAirPortInformation(location.state.departureAirport)
         .then((result) => {
           setDepartureAirport(result);
         })
@@ -62,19 +51,15 @@ const Details = () => {
 
   const redirectToNearestFlightsWithSearchData = () => {
     navigate("/flights", {
-      state: {to: flight?.to || "", from: flight?.from},
+      state: { to: flight?.to || "", from: flight?.from },
     });
   };
 
-  if (!flight) return(
-    <div>
-      Waiting for flight data...
-    </div>
-  );
+  if (!flight) return <div>Waiting for flight data...</div>;
 
   return (
     <div>
-      <DetailsTopbar flightNumber={location.state.flightNumber}/>
+      <DetailsTopbar flightNumber={location.state.flightNumber} />
       <div className="flex">
         <div className="w-[50%] h-[calc(100vh-50px)] p-4">
           <Map
@@ -93,9 +78,9 @@ const Details = () => {
                   altitude={flight?.location?.altitude?.feet}
                   distance={haversineDistance(
                     flight?.location?.lat ||
-                    flight?.arrival?.airport?.location?.lat,
+                      flight?.arrival?.airport?.location?.lat,
                     flight?.location?.lon ||
-                    flight?.arrival?.airport?.location?.lon,
+                      flight?.arrival?.airport?.location?.lon,
                     flight?.arrival?.airport?.location?.lat,
                     flight?.arrival?.airport?.location?.lon,
                   )}
